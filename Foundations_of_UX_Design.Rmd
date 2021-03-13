@@ -1,0 +1,109 @@
+---
+title: 'Google User Experience (UX) Design'
+author: 'notes along my way - Bonnie Cooper'
+date: "`r Sys.Date()`"
+output:
+  rmarkdown::html_document:
+    theme: leonids
+---
+
+## Foundations of User Experience Design
+
+UX designers focus on the experience that users have while interacting with products. UX design helps product development keep accessibility and equity in mind. The term 'user experience' was coined by Con Norman in the 90s, but one could argue that the practice of UX extends back to ancient China with the practice of Feng Shui.
+
+Course break-down:  
+
+1. Introduction to UX Design
+2. Getting to know common terms, tools and frameworks in UX design
+3. Joining Design Sprints
+4. Building a Professional Presence
+
+Helpful UX design resources:  
+
+* [Interaction Design Foundation](https://www.interaction-design.org/literature)
+* [Adobe XD Ideas](https://xd.adobe.com/ideas/)
+* [UX Collective on Medium](https://uxdesign.cc/)
+
+### The Basics of User Experience Design
+**User Experience**: How a person, the user, feels about interacting with, or experiencing a product.  User experience is a user-centered approach to solving design problems. UX designers merge usability and craft to solve problems for all aspects of a product, service, community, or an individual person's needs.  
+**Product**: a good (video game controller, app, website, etc), service or feature
+**Good Experience**: a product must be:  
+
+* Usable - making something easier to use. the design must be clear to everyone
+* Equitable - need to consider everyone who might use a product;  must consider the unique needs of different people
+* Enjoyable - create a positive connection between the user and the product
+* Useful - solve the users problems
+
+**Equitable**: designs are useful and marketable to people with diverse abilities  
+
+Why UX?: When people like a product, they use the product a lot & the recommend it to thier friends. More use == better business. Businesses that focused on good usability and design performed better than their competitors.  
+
+### Jobs in the Field of User Experience
+What are UX designers like? free associating UX characteristics: have a 'good eye', creative, empathetic  
+**Empathy**: the ability to understand someone else's feelings or thoughts in a situation. In order to desing equitably, we need to be able to put ourselves in someone else's shoes and imagine what that person might think or feel in a given situation.  
+
+What do UX designers do?  
+**Interaction Designers**: focus on designing the expereince of a product and how it functions. focus on how to make the product easy to navigate and simple for users to interact with    
+**Visual Designers**: focus on how the product or technology looks. focus on the layout of each page or screen and make all the design elements fit together in a visually appealing way    
+**Motion Designers**: focus on what it feels like for a user to move through a product and how to create smooth stansitions between pages   
+**VR/AR Designers**: how do we create user experience that leverages 3D space. how do we ensure that users are comfortable immersing in VR or AR experiences  
+
+Not considered UX:  
+**Graphic Designers**: create visuals that tell a story or message. focus on the physical appearance of a product whereas UX designers focus on how users interact with a product.  
+
+Common collegues for UX Designers:  
+**UX Researcher**: conduct the studies or interviews that help us learn how people use a product. explore usability of products, identify pain points that users are experiencing and make. understand how a product can provide a solution to a real problem that users face.  
+**UX Writer**: think about how to make the language within a product clearer to make use more intuitive.  
+**Production Designers**: make sure the first and final designs match in the finished project materials and that the assets are ready to be handed off to the engineering team.  
+**UX Engineers**: translate the design's intent into a functioning experience  
+**UX Program Managers**: ensure clear and timely communication so that the process of building a useful product moves smoothly.  
+
+### The Product Development Lifecycle
+
+**Product Life Cycle**: how a new product moves from ideation to final product  
+
+* Brainstorm - thinking of the idea for a product. a diverse brainstorming team is key to effective brainstorming because it brings together a lot of different lived experiences. this is a great time to check out your competition and see what is close to your product idea...what can be improved on...
+* Define - the goal is to figure out the specifications for the product. Who is the product for? what problem does it solve? User research will help determine the problems that need to be addressed by the product's design.    
+* Design - UX designers may build out the ideas for the product: from wireframe to prototype. UX writers may decide labels. the goal is to try to include all the product specifications that were outlined during the define stage while keeping the user's need in mind  
+* Test - a functional prototype is developed...now to test it..gathering and implementing feedback is critical. the design/test steps iterate until there is little to no friction between the product and the user
+  1. **beta testing** - test the product internally
+  2. test with stakeholders - does the product align with a company's vision
+  3. external testing with potential users - does the product provide a good user experience
+* Launch - the product is released!
+
+![](https://miro.medium.com/max/994/1*dnRVDKGpKk4xc0sIECHImw.png)
+
+### Design for a Good User Experience
+Predicting user roadblocks and potential design mishaps is what good UX design is all about.  
+Poor UX can happen when the user's experience is not considered in a product's design.  
+For the user to have a good experience, the product must be usable, equitable, enjoyable and useful (among other things).  
+Good UX should create products that are intuitive and easy to use.  
+
+### Is it Good Design? Well, yeah.
+[what Googlers say about good product design](https://design.google/library/good-design/#casio-f91-w)
+good design == as little design as possible  
+applying creativity that is considerate of others, in places where you don't expect it.  
+it does the job it needs to do without trying to be anything else
+good design is when every element has a purpose. Nothing is for nothing.  
+good design is a partnership between a voice and the vehicle of expression.  
+good design is a healthy mix of the familiar and the future.  
+simple, accessible and infallible.  
+when something is expressed so simply and effortlessly that it passes for common sense.  
+good - even outstanding - design is mindful of matters concerning equity, the environment, the economy, and human development.  
+
+
+
+## Start the UX Design Process: Empathize, Define, Ideate
+
+## Build Wireframes and Low-Fidelity Prototypes
+
+## Conduct UX Research and Test Early Concepts
+
+## Create High-Fidelity Design Prototypes in Figma
+
+## Responsive Web Design in Adobe XD
+
+## Design a User Experience for Social Good & Prepare for Jobs
+
+
+<br><br><br>
