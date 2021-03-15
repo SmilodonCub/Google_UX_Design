@@ -89,7 +89,80 @@ good design is a partnership between a voice and the vehicle of expression.
 good design is a healthy mix of the familiar and the future.  
 simple, accessible and infallible.  
 when something is expressed so simply and effortlessly that it passes for common sense.  
-good - even outstanding - design is mindful of matters concerning equity, the environment, the economy, and human development.  
+good - even outstanding - design is mindful of matters concerning equity, the environment, the economy, and human development. 
+
+### Explore Jobs in UX
+
+**Typical Responsibilities of entry-level UX Designers**  
+Wireframing, prototyping. researching and creating information architecture are all common responsibilities of an entry-level UX designer, but communication is also very very key.
+
+* Researching - understanding audiences and learning about their backgrounds, demographics, motivations, pain points, emotions, and life goals
+* Wireframing - An outline or a sketch of a product or a screen
+* Prototyping - An early model of a product that demonstrates functionality. Prototypes illustrate progressions.
+* Creating Information Architecture - The framework of a website or how it's organized, categorized and structured.
+* Communicating Effectively
+
+*"...identifying the problems. What are the issues going on with this product?...and why are we even looking to improve or introduce this feature? ......You're going to be interacting with everybody on your team...(how you) get the feedback that you really need to be able to push your project to success"*  
+
+**Specialists, generalists and T-shaped designers**  
+
+* **Generalist** - A UX Designer with a broad number of responsibilities. A generalist might be responsible for a combination of user research, branding, user flows, UX writing, visual design, prototyping, production design, information architecture, and usability testing ...etc.
+  + expand your skills in many different types of UX work
+  + trying a variety of responsibilities and finding areas of UX that you are particularly passionate about
+  + keeping your job fresh feeling while doing a variety of tasks.
+* **Specialist** - Expert in one thing. Dives deep into one particular UX design role, like interaction, visual or motion design. 
+  + focus on one type of design that you enjoy more than others
+  + gain deep knowledge of one type of design
+  + become well-known in the industry for your expertise in a particular type of design
+* **T-shaped Designer** - An expert in one thing and capable in a lot of other things. Specializes in one kind of UX design and has a breadth of capabilities in other areas.
+
+*"...as a generalist designer you work on a bunch of different things from interaction design and visual design to user research...at bigger companies there are specialist designers. For instance, at Google, there are interaction designers, visual designers, UX engineers, UX writers and UX researchers."*  
+
+**The Role of a Beginner UX Designer**  
+
+* User Research - understanding the people who use your product
+* Information Architecture - deciding how your product is organized and structured
+* Wireframing - a sketch of a product or screen
+* Prototyping - an early model of a product that demonstrates its functionality
+* Visual Design -  a focus on how the tech will appear.
+* Effective Communication - communicate with colleagues in a highly collaborative field
+
+**Work in a cross-functional team**  
+
+* Product lead - decides the scope of the project. in charge of ensuring the final product's success and communicating with stakeholders
+* UX Researcher - Tries to understand user trust. what do user need and expect from a product.
+* Interaction Designer - figures out the flow of the product
+* Visual Designer - thinks about how to visually facilitate user-product interaction
+* Engineers - bring the prototypes to life. translate designs into functioning experience. Is a design technically feasible?
+* Program Manager - ensures clear and timely communication across the team. supervise, support and keep track of the project as a whole.
+
+### Understand the Types of Companies that hire UX Designers
+
+**UX Design jobs at different types of companies**  
+
+* Startups are new businesses that want to develop a unique product or service and bring it to market; likely be a generalist.
+* Freelancers work for themselves and market their services to businesses to find customers.
+* Advertising agencies are teams of creatives hired by clients to build marketing campaigns.  
+* Design Agencies are a one-stop shop for the 'look' of brands, products and services.
+
+**Start-ups & Small Businesses**  
+- Advantanges: close-knit team w/ access to upper management, growth opportunities through exposure to different opportunities, more creative freedom and lots of impact on final products  
+- Disadvantages: fewer mentors around, not a large UX team so those responsibilities will all fall on you, must work fast  
+**Big Companies**  
+- Advantages: lots of mentorship, growth opportunities because UX gets stratified there, clear work guidelines, larger UX team size, more opportunities to specialize  
+- Disadvantages: might not feel like you have a lot of impact, guidelines can feel restrictive  
+**Design Agencies**  
+- Advantages: lots of impact, networking opportunities with exposure to clients, work that can look good in a design portfolio  
+- Disadvantages: lack of UX mentorship, work can be repetitive, might not work on project start to finish and if you finish it might not actually release  
+**Advertising Agency**  
+- Advantages: autonomy, ability to do multi-disciplinary work, variety of projects with networking opportunities  
+- Disadvantages: might not be able to buckle down and specialize, might not be able to focus on solely UX Design  
+**Freelancers** 
+- Advantages: live your own damn life  
+- Disadvantages: lack of structure, instability, lack of mentorship, basically have to lead your own one person business.  
+
+
+### Pursue a Career in UX Design
 
 
 
