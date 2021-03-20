@@ -1,5 +1,6 @@
 ---
 title: 'Google User Experience (UX) Design'
+subtitle: 'Foundations of User Experience Design'
 author: 'notes along my way - Bonnie Cooper'
 date: "`r Sys.Date()`"
 output:
@@ -7,7 +8,7 @@ output:
     theme: leonids
 ---
 
-## Foundations of User Experience Design
+## Week 1
 
 UX designers focus on the experience that users have while interacting with products. UX design helps product development keep accessibility and equity in mind. The term 'user experience' was coined by Con Norman in the 90s, but one could argue that the practice of UX extends back to ancient China with the practice of Feng Shui.
 
@@ -163,20 +164,231 @@ Wireframing, prototyping. researching and creating information architecture are 
 
 
 ### Pursue a Career in UX Design
+Common career paths for UX designers:  
+
+* Internships - a short term job with limited responsibility
+* Apprenticeships - provide on-the-job training to help you develop real skills 
+* Freelancers - work for themselves and market their services to businesses to find customers 
+* Entry-level jobs - roles that do not require prior experience in the field
+
+*"Persistence was a lot of it; and also not being afraid to ask others or to look for other inputs and resources. You can't do and solve everything by yourself"*
+
+## Week 2
+
+### Define the user, end user, and user experience
+
+**user**: any person who uses a product  
+**end user**: the specific audience a UX designer creates something for  
+**user experience**: how a person, the user, feels about interacting with, or experiencing, a product  
+
+  + Is the product easy to use?
+  + Is the product equitable?
+  + Does the product delight the user?
+  + Does it solve the user's problem? 
+  
+**OUR GOAL**: think about the problems and needs from the end user's perspective and design an experience to meet those needs. KEEP THE END USER AS YOUR PRIORITY.
 
 
+### Prioritize the user  
+**User-centered design**: it's important to solve problems that people actually experience, rather than trying to solve problems that you personally experience. User-centered design puts the user front and center.  
+*"There is no substitute for personally watching and listening to real people"* - Larry Page, Google  
+**FOCUS  ON THE USER AND ALL ELSE WILL FOLLOW**  
 
-## Start the UX Design Process: Empathize, Define, Ideate
+Steps in the user-centered design process:  
 
-## Build Wireframes and Low-Fidelity Prototypes
+* Understand - how does the user experience the product or similar product
+* Specify - what are the end user's needs
+* Design - design solutions to the end user's problem
+* Evaluate - evaluate the product's performance against the end-users needs
 
-## Conduct UX Research and Test Early Concepts
+**Iteration**: doing something again, by building on previous versions and making tweaks
 
-## Create High-Fidelity Design Prototypes in Figma
 
-## Responsive Web Design in Adobe XD
+### Key Frameworks in UX design
+**framework**: creates the basic structure that focuses and supports the problem you're trying to solve
 
-## Design a User Experience for Social Good & Prepare for Jobs
+Examples of frameworks:  
+
+* **User centered design process** - focus on the user and their needs in an iterative process. how does the experience of interacting with the product make the user *feel*
+
+  Key Steps: 
+
+  + Understand how the user experiences the product - requires research to understand how and in what environment the user experiences the product
+  + Specify the user's needs - which problems are most important to solve
+  + Design Solutions - come up with ideas/designs
+  + Evaluate the solutions you designed and the user's needs - does the design solve a user's problem?
+  
+  Guiding Principles:
+  
+  + Design for the users and their needs - keep in mind that you are not the end user. rather, you are designing to help a diverse set of humans with specific needs
+  + Make your copy conversational - text should be simple, friendly and easily accessible in tone
+  + Present all information clearly - users should be able to navigate your product design easily
+  + Acknowledge user actions - let users know when they have completed a task correctly
+  + Offer support - make sure there is help for frustrated users
+  
+* **five elements of UX design framework** - steps a designer takes to turn an idea into a working product
+  + Strategy - foundation step: define user's needs and business objectives
+  + Scope - determine what you are building. decide on features and content to be included in the product
+  + Structure - how to organize your design and how the user will interact with it.
+  + Skeleton - layout
+  + Surface - top level: how the product looks to the user
+  
+* **design thinking framework** - a way to create solutions that address a real user problem and are functional and affordable
+  + Empathize - think and feel like the user, what do the users need?
+  + Define - define a clear problem statement, or, what user needs must be met.
+  + Ideate - brainstorm as many solutions as you can. quantity, quantity, quantity
+  + Prototype - build a scaled down version of the product
+  + Test - test the prototypes with users
+  
+* **Lean UX** - focuses on reducing wasted time and resources and producing a workable product asap. Lean UX is all about following intuition, putting ideas out there and staying open to constant feedback
+  Steps:  
+  
+  + Think - research and form a clear idea of who the product is for and how it will help them
+  + Make - start designing: sketches, wireframes, and prototypes
+  + Check - find out how users respond to your design and make adjustments
+  + (iterate?)
+  
+  Principles: 
+  
+  + Move forward - focus on the necessities; dont get tied up in nice-to-haves
+  + Stay curious - use feedback to improve design
+  + Test ideas in the real world - use prototypes in the wild
+  + Externalize your ideas - turn ideas in to physical, viewable & testable tools to test on users at early stages
+  + Reframe deliverables as outcomes - focus on creating usable, enjoyable products that users actually wand and need
+  + Embrace radical transparency - be honest with teammates
+  
+* **Double Diamond**: a more traditional UX process with 2 main phases: Research and Design  
+  Steps:
+  
+  + Discover the problem - gather info
+  + Define the problem - filter data to see what the main issue is that your product will solve
+  + Develop solutions for the problem - use wireframes and prototypes to build out your product
+  + Deliver the product - review & test in preparation for release
+  
+  Principles:  
+  
+  + Focus on the user 
+  + Communicate - text, imagery & design choices
+  + Collaborate - Double Diamond is unique because it encourages creative collaboration and co-creation
+  + Iterate - magic is in the revision. with every iteration, you give the user a new experience
+  
+  
+Inclusivity: keeping users first in your design
+**Universal Design**: "One size fits all" The process of creating one product for users with the widest range of abilities and in the widest range of situations. Problem: even though universal design had the intention of being inclusive, it excluded a lot of people. Universal design does not meet the needs of every user.  
+**Inclusive Design**: "Solve for one, extend to many" Finding design solutions to meet different needs. take into personal identifiers like: Ability, Race, Economic Status, Language, Age, Gender. Back to the front mentality.  
+**Accessibility**: Designing products, devices, services, or environments for people with disabilities is called accessibility.  
+**Equity-focused Design**: Designing for groups that have been historically underrepresented or ignored when building products. providing different levels of support and opportunity for each person in order to achieve fair outcomes. seeks to build products that meet the needs of specific individuals in groups who have been excluded in the past.  
+**Equality**: Providing the same amount of opportunity and support.
+**Equity (UNICEF)**: all children have an opportunity to survive, develop, and reach their full potential without discrimination, bias or   
+
+*Equity is distinguished from equality. The aim or equity-focused policies is not to eliminate all differences so that everyone has the same level of income, health and education. Rather, the goal is to eliminate the unfair and avoidable circumstances that deprive children of their rights.*
+  
+
+### Importance of Accessibility 
+**Accessibility**: ['a11y'](https://a11y-style-guide.com/style-guide/section-forms.html) the design of products, devices, services or environments for people with disabilities.  
+**A11y categories**:  
+
+* Motor
+* Deaf or hard of hearing
+* Cognitive
+* Vision
+When designers focus on accessibility considerations, cognitive, visual, motor, and hearing impairments are the four main categories. However, it is important to remember that these categories can be concurrent.  
+As designers, we need to account for disabilities that are permanent, temporary or situational in our designs.  
+
+Key Takeaway: If we make the design of a product easier for people with disabilities, we also often make it a better experience for everyone else.  
+
+1. [Design for Global Accessibility Part I](https://design.google/library/designing-global-accessibility-part-1/)
+  + Awareness is everything: increase awareness of accessibility issues and check your assumptions about users
+2. [Design for Global Accessibility Part II](https://design.google/library/designing-global-accessibility-part-2/)
+  + Consider logistics during the design process. build great UX for modest devices, intermittent networks, data costs
+3. [Design for Global Accessibility Part III](https://design.google/library/designing-global-accessibility-part-iii/)
+  + Make tactical decisions to build inclusive apps.
+  
+[Google's Accessibility guidelines for Material Design](https://material.io/design/usability/accessibility.html#understanding-accessibility)  
+
+### The importance of Equity-Focused Design
+focus on race & gender  
+
+**Equity-focused Design**: Thinking through all the aspects of a designed product and making sure the product is both accessible and fair to all genders, races and abilities. Plus, the designs need to specifically consider underrepresented and excluded groups.  
+testing with a diverse set of users can truly improve a product.  
+
+
+### Design for the Next Billion Users (NBU)
+Issues facing the NBU:  
+
+1. Cost - might not be able to afford expensive phones with big screens and lots of storage.
+  + under the hood choices can be made to make an app more data efficient
+2. Connectivity - might not have continuous internet connectivity.
+  + design choices should be made to make the offline content as close to the online as possible
+3. Digital Literacy - users may be unfamiliar with the design patterns typical of digital devises. this may affect user confidence and willingness to explore a new technology
+  + keep things simple. consider optional how-to or FAQ 
+4. Literacy (general) - some users might not be able to read or communicate in the language the technology presents in.
+  + use universally understood icons. multilanguage keyboard options.
+
+
+"The strange thing about UX design is that you won't really notice it is it's good design. You only really notice it when it's bad design"
+
+### The advantages of UX design tools
+
+* Tools allow designers to prototype ideas and iterate on them
+* Tools make it easier for designers to test their prototypes
+* Design tools make it possible for multiple teams to work on the same product
+
+We will be using [Figma](https://www.figma.com/) and [Adobe XD](https://www.adobe.com/products/xd.html) for wireframing and prototyping  
+**Wireframe**: is an outline or a sketch of a product or a screen. Wireframes help designers figure out how a page is arranged, where each piece of a product fits in with the others, and how users will likely interact with the product.  
+**Prototype**: is an early model or a product that demonstrates functionality  
+
+Presentation Tools: Google Slides, PowerPoint, Keynote, etc.....  
+Image creation / manipulation tools: Adobe Illustrator (vector drawings), Adobe Photoshop (raster images)  
+Animation Tools: Lottie, Adobe After Effects 
+
+
+### Get to know platforms  
+Why do designer need to keep different platforms top of mind as they build user experiences.  
+**Platform**: the medium that users experience your platform on (desktop, laptop, mobile, tablet, wearables (smartwatch) TVs & other smart displays). It's important to design with multiple platforms in mind, because users want a product to look and feel similar, no matter what platform they are using.  
+**Brand Identity**: The visual appearance and voice of a company.  
+
+### Design for Different Platforms
+learn how users engage with different devices.  
+People use different platforms different ways. Ex: the average mobile session is 72sec while the average desktop session is 150sec.  
+The design differences we need to consider based on the devices we are designing for.  
+**Responsive web design**: allows a website to change automatically depending on the size of the device.  
+Best practices for designing for mobile user experiences:  
+
+1. call-to-action buttons should be front and center
+2. navigation menus should be short and simple
+3. rely on gestures that users are already familiar with (tapping, swiping)
+4. design for horizontal and vertical phone orientations
+5. reduce visual clutter
+
+Considerations for other platforms:  
+
+* Screen size - adjusting design elements to fit different screen sizes
+* Interaction - ways users interact with each platform
+* Content Layout - the way information is organized on the screen
+* Functionality - different functional uses for for different platforms
+
+The four Cs of designing for multiple platforms:  
+
+1. **C**onsistency - companies may have specific design guidelines that need to be followed to stay consistent with brand identity
+2. **C**ontinuity - users can maintain their content as they move from one platform to another
+3. **C**ontext - when and how do users interact with different features on different platforms
+4. **C**omplementary - make sure that the design of each platform adds something new for the user
+
+**Main Takeaway**: users behave differently depending on their device
+
+### Assistive Technology
+**Assistive Technology**: any products, equipment and systems that enhance learning, working and daily living for people with disabilities.  
+
+* Color Modification - High-contest (light or dark) mode for people with low vision
+* Voice Control - Alternative to tactile interactions (e.g. keyboard use)
+  + **Switch** an assistive technology device that replaces the need to use a computer keyboard or a mouse
+* Screen Readers - reads aloud  any on screen text
+* Alternative Text - translates a visual user interface to a text space user interface
+
+*"Diefference helps us think creatively and helps us see gaps in our products"*
+
+There are a lot of people who don't identify as having a disability but still use assistive technologies
 
 
 <br><br><br>
