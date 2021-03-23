@@ -4,11 +4,9 @@ subtitle: 'Foundations of User Experience Design'
 author: 'notes along my way - Bonnie Cooper'
 date: "`r Sys.Date()`"
 output:
-  rmarkdown::html_document:
-    theme: leonids
+  rmdformats::downcute
 ---
 
-## Week 1
 
 UX designers focus on the experience that users have while interacting with products. UX design helps product development keep accessibility and equity in mind. The term 'user experience' was coined by Con Norman in the 90s, but one could argue that the practice of UX extends back to ancient China with the practice of Feng Shui.
 
@@ -24,6 +22,8 @@ Helpful UX design resources:
 * [Interaction Design Foundation](https://www.interaction-design.org/literature)
 * [Adobe XD Ideas](https://xd.adobe.com/ideas/)
 * [UX Collective on Medium](https://uxdesign.cc/)
+
+## Week 1
 
 ### The Basics of User Experience Design
 **User Experience**: How a person, the user, feels about interacting with, or experiencing a product.  User experience is a user-centered approach to solving design problems. UX designers merge usability and craft to solve problems for all aspects of a product, service, community, or an individual person's needs.  
@@ -46,7 +46,7 @@ What are UX designers like? free associating UX characteristics: have a 'good ey
 What do UX designers do?  
 **Interaction Designers**: focus on designing the expereince of a product and how it functions. focus on how to make the product easy to navigate and simple for users to interact with    
 **Visual Designers**: focus on how the product or technology looks. focus on the layout of each page or screen and make all the design elements fit together in a visually appealing way    
-**Motion Designers**: focus on what it feels like for a user to move through a product and how to create smooth stansitions between pages   
+**Motion Designers**: focus on what it feels like for a user to move through a product and how to create smooth tansitions between pages   
 **VR/AR Designers**: how do we create user experience that leverages 3D space. how do we ensure that users are comfortable immersing in VR or AR experiences  
 
 Not considered UX:  
@@ -389,6 +389,124 @@ The four Cs of designing for multiple platforms:
 *"Diefference helps us think creatively and helps us see gaps in our products"*
 
 There are a lot of people who don't identify as having a disability but still use assistive technologies
+
+
+## WK3 Design Sprints
+
+### Understand Design Sprints  
+How does something go from a design challenge to an actual user-centered product?  
+**Design Sprint**: a time-bound process, with five phases typically spread out over five full 8hr days. The goal of design sprints is to solve a critical design challenge through designing, prototyping, and testing ideas with users. Design sprints can be used to answer questions, define product directions, figure out cross team strategies and even build team culture.  
+Design Sprint Phases:  
+
+1. Understand
+2. Ideate
+3. decide
+4. Prototype
+5. Test
+
+Design Sprint Benefits:  
+
+* Save time
+* Create a path to bring a product to market
+* Prioritize the user
+* Test product before launch
+
+Do you need to do a design sprint?:  
+
+* Are there many potential solutions to the challenge?
+* Are cross-functional teams needed to weigh in?
+* Is the challenge wide enough in scope?
+
+### Design Sprint Phases:
+Creative collaboration is at the core of every phase.  
+
+1. Understand - get a clear picture of the design challenge
+2. Ideate - coming up with ideas and building off of them to create solutions
+3. Decide - evaluate the options and chose the idea(s) most likely to achieve the goal
+4. Prototype - build versions of the app
+5. Test - put the prototype in front of users. Observe & gauge reactions.
+
+### Design Sprint Benefits:  
+
+* Save time
+* Create a path to bring a product to market
+* Prioritize the user - it's all about the user. the users ultimately decide if your product works
+* Lower risks - test product before launch on real users
+* Value everyone in the room - every opinion no matter what seniority can contribute
+* The best ideas will rise to the top - after careful consideration of all options
+* Time to focus - design sprints are a distraction free time dedication to a problem
+* Versatile scheduling - sprints can be scheduled at any point during a project
+
+[Learn about Design Sprints at Google](https://designsprintkit.withgoogle.com/)
+
+![](designSprint.png)
+
+### Planning Design Sprints
+
+1. **User Research** User research is always the first step in any sprint planning process. Research should focus on the user problems you're trying to solve during the sprint.  
+2. **Call the Experts** schedule short talks with colleagues or industry experts.  
+3. **Find the right Space** does the space allow employees equal opportunity to perform their job? important things: whiteboards, acoustics, accommodations & comfort.  
+4. **Gather Supplies** does everyone have what they need to participate? markers, sticky notes, snacks, water etc. 
+5. **Establish Sprint Rules** set the tone for the sprint and get everyone on the same page. 
+6. **Plan Introductions** sprints usually have cross-functional teams
+7. **Post-Sprint Planning** followup & accountability! what will happen after the sprint wraps up?..
+
+### The Design Sprint Brief
+**Sprint Brief** - a document that you share with all your attendees to help them prepare for the sprint.
+[Design Sprint Brief Template](https://docs.google.com/document/d/1WYvwHVjc-9JZTm-0_CK3rmUG--F4bNRC6K-rbSn7094/edit)
+
+1. Sprint Objectives - introduce the team to the sprint objectives
+2. Key Deliverables - what does the team actually want to create by the end of the sprint
+3. Logistics - where, what, who & who is the sprint master
+4. Approvers - the higher ups that will sign off on the project
+5. Project Overview
+  + Current state of the project
+  + Roadblocks
+  + Early wins
+  + Estimated launch plan
+6. Schedule - hour by hour breakdown of the sprint
+
+### An entry level designers role in a sprint  
+you won't be running the show, but you'll play an important role, contributing to every phase of the sprint.  
+
+1. Understand - get a clear picture of the design challenge and listen to the experts
+2. Ideate - focus on coming up with as many ideas as possible and put them out there
+3. Decide - get involved in the decision process. also, get ready for testing....(schedule testers, create surveys & interview questions, gather necessary equipment)
+4. Prototype - get actively involved in creating a prototype for users to try out.
+5. Test - collect user feedback by observing and collecting user feedback.  
+
+*"Validating ideas with users is baked into the design sprint process"*  
+*"Getting started is more important than being right"*  
+*"Assumptions are OKay"*  
+*"You're probably wrong the first time... often we need to fail to find the right way to go"*  
+*"Sprints at their core are about inclusivity"*  
+*"It's always important to understand who your participants are and to make sure that this overall experience is thoughtful"*
+
+![](desognSprint2.png)
+
+### Design Sprint Retrospectives
+**Restrospective**: A collaborative critique of the team's design sprint. There is no particular agenda. The goal is for everyone who was involved in the design sprint to have a chance to give feedback. Retrospectives are all about empowering, not shaming. Any feedback that is given will be used to reflect on the experience and improve the process for the next sprint.  
+
+* What went well?
+ + Which tools saved the most time and effort?
+ + When did you feel the most satisfaction?
+ + What helped you make your best contribution to the team during this sprint?
+* What can be improved? Annonymize feedback collection to shape the feedback so as to avoid groupthink. **Groupthink** occurs when one person shares an opinion and everyone immediately latches to this idea instead of sharing their own unique outlook.
+  + What went wrong that caught you off guard?
+  + Which problems came up the most?
+  + when do you think we experienced the biggest challenge as a team?
+  + Did the team overestimate or underestimate the work required to complete the design?
+  + Did an external factor derail your productivity?
+  + **Most important**: does the final design actually solve the user problem?
+* Lessons Learned
+  + What did you discover during the sprint that you're still wondering about?
+  + How could the current process be holding the team back from creating better solutions?
+  
+**Takeaways** - The only bad suggestion is the one not shared!
+
+
+
+
 
 
 <br><br><br>
