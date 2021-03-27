@@ -23,7 +23,7 @@ Helpful UX design resources:
 * [Adobe XD Ideas](https://xd.adobe.com/ideas/)
 * [UX Collective on Medium](https://uxdesign.cc/)
 
-## Week 1
+## WK1 Into 2 UX Design
 
 ### The Basics of User Experience Design
 **User Experience**: How a person, the user, feels about interacting with, or experiencing a product.  User experience is a user-centered approach to solving design problems. UX designers merge usability and craft to solve problems for all aspects of a product, service, community, or an individual person's needs.  
@@ -173,7 +173,7 @@ Common career paths for UX designers:
 
 *"Persistence was a lot of it; and also not being afraid to ask others or to look for other inputs and resources. You can't do and solve everything by yourself"*
 
-## Week 2
+## WK2 UX Design: terms, tools & frameworks
 
 ### Define the user, end user, and user experience
 
@@ -504,9 +504,274 @@ you won't be running the show, but you'll play an important role, contributing t
   
 **Takeaways** - The only bad suggestion is the one not shared!
 
+## WK4 Design Portfolios
+**Portfolio**: a collection of work you've created that shows your skills in a certain area  
+*"focus in on the storytelling and the thinking like a user experience designer...curiosity to learn, and the grow, and to project myself as a ambitious visual designer"*
+
+[Great Article with Example Portfolios](https://careerfoundry.com/en/blog/ux-design/ux-portfolio-examples-inspiration/)  
+
+[Look](http://www.lisasuefischer.com/)[At](https://www.shabnamkashani.com/)[These](https://www.nicolaspellegrino.com/)[Portfolios](https://joshglucas.com/)
+
+### Introduction to website builders
+**WYSIWYG**: What You See Is What You Get   
+
+* Wix 
+* Squarespace
+* Webflow
+
+**Domain**: Address of your own website
+
+Elements to include for a portfolio site  
+
+1. Name and personal logo
+2. Navigation Menu
+3. Work Samples
+4. 'About Me'
+5. Contact Information
+6. Color Scheme
 
 
+### Introduction to Best Practices for UX Design Portfolios
+Pro-tips:  
 
+1. **Establish your Personal Brand** your personal brand is the way in which your personality, unique skills, and values as a designer intersect with your public persona. Your personal brand is the first impression you make; it should clearly demonstrate who you are and what makes you interesting  
+2. **Tell a Story** of your design process from the beginning middle and end
+3. **Be Concise** use minimal text to describe your work and highlight key insights that help inform your decisions.  
+4. **Keep you Navigation Simple and Intuitive**: where **Navigation** is the way users get from page to page on a website. there should always be an option to home, and projects should flow from one to the next, there should be an easy and obvious way to the contact page
+5. **Go beyond the Template** - change any/all default text. get your own domain name.
+6. **Include a diversity of Projects** - 3-6 projects that show the range of your skillset.
+7. **Feature Case Studies** where a **Case study** leads the user through your design process from the beginning to the end. 
+  + should ask: What was the problem you were trying to solve? What process did you follow? Where did you succeed or fail? What insights informed your design decisions along the way? What was the ultimate solution, and why do you feel that solution was the best?  
+  + should include: the Projects name & duration, your role/contribution, project goal, research, intended audience, sketches or wireframes, user testing results, final design, conclusions about what you learned
+8. **Website is Responsive** - compatible on many platforms
+9. **Test Your Website** - make sure it functions properly
+
+**Non-disclosure agreement** - a contract an employee might sign when working with a business, in which they agree not to share sensitive information.  
+
+If you add new pieces to your portfolio as you build them, you'll be in much better shape when it's time to apply for jobs
+
+### Collecting Portfolio Elements  
+
+* Scan anything on paper with a printer
+* Sreenshot wireframes and prototypes
+* Get Permission
+
+### Explore Personal Brands
+Showcase the type of work you want to do
+
+Figuring out your personal brand  
+
+* What am I naturally good at?
+* What have I learned to do well?
+* What do I enjoy?
+* What do I value?
+* How do other people describe me and my talents?
+* What do I want people to recognize me for?
+
+Think about how you can bring your self-perception and public perception closer together. Your brand should be consistent everywhere you have a presence online. When it comes to building your personal brand, consistency is key. Being consistent in how you present yourself personally and professionally communicates authenticity and builds trust among people in the design community.  
+
+### Start to develop a personal brand
+
+* Create a personal logo  
+* Make the most of Fonts and Colors
+* Keep you voice consistent
+* Use graphics, animations and photography. Imagery is a great way to cultivate your personal brand
+* Be yourself
+
+An effective way to present your brand is in the form of a personal statement—a one or two-sentence phrase that describes what you do and what you stand for. This template will help you focus on your personal brand statement. A personal statement is a great way to introduce yourself as a designer and can help you stand out from others. Think of your personal statement as your tagline or slogan and keep it one or two sentences in length. Your personal statement communicates your brand and can be an important element in your portfolio.
+
+**Personal Brand Statement** Think of your personal statement as your tagline or slogan and keep it one or two sentences in length. Your personal statement communicates your brand and can be an important element in your portfolio.  
+MINE: Visual Neuroscientist with her eye on UX Research
+
+**'About Me' statement**:  
+
+* What do you think your potential employers and recruiters want to know about you?
+* What are you hoping for them to learn about you?
+* What kind of work do you do?
+* What you're passionate about, or things you value
+* What kind of work culture are you seeking?
+* Where you work currently and if your job is in a related field
+* What types of teams you have worked on in the past (remote, in-person, freelance)
+* Your credentials (like this certificate) and additional education
+* Any notable clients, projects or awards
+* Contact Information: email links to relevant pages & profiles
+* A picture or two of yourself that captures and communicates your personal brand
+
+Choosing fonts and a color scheme:  
+
+* Choose fonts and colors that are aligned with your personal brand
+* Stick to no more than two fonts
+* Select a small set of colors. To start, choose one or two primary colors and a couple of accent colors
+
+
+### Start to build an online presence  
+How to build a cohesive and consistent presence online.  
+**Personal Statement**: A one or two-sentence phrase that describes what you do and what you stand for.  
+As a best practice, your photos should be consistent when posted across social media platforms.
+
+
+### Create or update social media profiles
+Use LinkedIn to connect with recruiters in the UX design industry. Add a note to your connection request that you're looking to learn more about the company and their job openings. Also connect with employees at a company you'd like to work for  
+
+Anything you post on social media is public facing.
+
+Update existing online profiles: 
+- do a google search and review the results  
+- make all profile pictures professional  
+- make personal profiles and/or albums private  
+- carefully review your content  
+
+Add to your portfolio:  
+- Include your resume  
+- Add links to social media profiles  
+- make contact information easy to find  
+
+template for connecting with someone you don't know on LinkedIn  
+Hi [connection’s name],  
+
+My name is [your name.] I’m a UX designer in training, and I really like your company’s work. [It’s a good idea to reference specific projects the company’s done that you like, and why.]  
+
+I want to learn more about your role at [company name], and I was wondering if I could talk with you at some point?  
+
+Sincerely,  
+
+[Your Name]  
+
+
+### Getting involved in UX design communities  
+**dribbble** - a community of designers who want to share their work, ask for feedback, get inspiration and find jobs.  
+**behance** - very similar to dribbble  
+**medium** - designs are not the focus, rather, long-form writing about UX design, sometimes including visuals
+
+
+### Use writing best practices in a portfolio
+
+Writing concisely and articulately in your portfolio.  
+The **introduction** to you and your portfolio should go above the fold on your homepage and include: name and what you do and some kinda blurb that establishes your personal brand.  
+**Above the Fold** - The content on a website that doesn't require scrolling.  
+The **about me** section is a professional page about you tell a story about yourself (beginning, middle & end) and can include any all of these:  
+
+* kind of work you do
+* Passions / values
+* Current work
+* Credentials / Education
+* Notable Projects, Clients or Awards
+* Contact Information (emails, social media, websites, address)
+
+Include **descriptions of your work** in your portfolio: role in the project, your process & the final design  
+
+#### Tips for writing in your protfolio
+
+* use as few words as possible
+* Avoid Complicated language
+* Avoid jargon
+* Include key words (e.g. from job descriptions (e.g. user journey, design sprint ))
+* Inject personality: be conversational  
+* Find a trusted editor
+
+#### Writing Concisely
+
+* Writing for content
+  + What aspect of this UX designer's work would be good to highlight for potential hiring managers?
+  + What's the primary point this UX designer should make in the personal statement?
+* Writing for Style
+  + Use as few words as possible
+  + Avoid complicated language
+  + Avoid jargon
+  + Include keywords
+  + Inject personality
+  + Edit carefully
+* Assess your work
+  + evaluate content
+  + evaluate style
+  + what did you do well and what can you improve
+
+
+#### Example Intro & About me
+**Exemplar**  
+Introduction:  
+Hi! My name’s David. I work in a museum. My favorite painter is Renior and I have three cats. You can see my design work on this website.   
+About Me:  
+I am absolutely positively thrilled to be starting to work in UX Design!!! I live in Lincoln with my partner and three cats, whose names are Jellybean, Mittens and Mrs. Pickles. Mrs. Pickles is the oldest one, she helps me with UX Design by sitting on my keyboard. Jellybean is probably better with eye tracking and heat maps, but he is extremely easily distracted with all the great big lettering and teensy-tiny areas of interest so he is not always the easiest. I really mostly especially like to focus on Usability and embed it into my design sites. I mostly do my UX Design work at night because during the day I work at an art museum giving tours of a bunch of the galleries. I really like Renoir. That’s my favorite gallery, to give tours of too. I decided to get my certificate in UX Design because sometimes when I’m giving gallery tours, I think about how the galleries aren’t always organized in a way that museum visitors would like to see them. Sometimes they don’t make sense and sometimes they’re not close enough to the chairs so people can’t sit and look at some of the more complex paintings. It makes me think about how to make it more fun to move through a visual space like a website and that really makes me very happy.  
+
+**My Edit**  
+Introduction:  
+Hi! My name’s David. Currently working in a museum where I am inspired by my favorite painter, Renior.  
+
+
+About Me:  
+My current role as a docent at the Renoir Museum inspires me to see UX Design applications all around me. The Renoir is my favorite gallery and I enjoy giving tours there. My work at the Renoir inspired me to pursue a career in UX Design because, when I’m giving gallery tours, I want the museum’s users to experience the same sense of inspiration I do. I think about how the galleries aren’t always organized in a way that our museum visitors can benefit the most. For instance, sometimes seating is curiously arranged such that it causes pain points for users who wish to sit and experience some of the more complex paintings. I think about how to make the physical space of the Renoir an effortless joy to move through, much like the visual space of a website. For now, I do most of my UX design work at home after a day at the museum with the devoted assistance of my three cats: Jellybean, Mittens and Mrs. Pickles. I think about my future in joining a professional UX design team and applying my skill set to new and exciting design problems and that really makes me very happy.  
+
+**Suggested Edit**  
+Introduction:  
+Hi, I'm David. I'm a UX designer that specializes in Usability. I got my start in museums, and I like bringing together physical and digital space. Check out my portfolio to see some of my work! For business inquiries, you cna contact me here.  
+About Me:  
+I recently earned my certificate in UX Design, but I first started thinking like a UX designer when I worked at a local art museum. I would lead tours of several galleries and notice how the space could be organized better to give users a better experience. Their paintings could have been in a different order, so as to make better sense to the visitors. The seating areas could have been closer to some of the more complex paintings (I liked the Renoirs, personally). My job made me thing about how people navigate physical and virtual space. I enjoyed thinking this way so much that it inspired me to get my certificate in UX Design. Now, I specialize in Usability for digital products. You can find examples of my recent projects in the portfolio section of my website. When I'm not working, I live in Lincoln with my partner, Abby, and our three cats: Jellybean, Mittens, and Mrs Pickles.  
+
+
+### Network and find a Mentor  
+**Networking** - Interacting with other people to develop professional contacts and learn more about a job industry.  
+Think about the long term: a person you meet at a happy hour might not be able to advance your career right now, but if you keep in touch in the future, your new friend might know someone looking to hire...you never know where a connection might lead  
+**Mentor** - someone in your field who gives you advice about your career.  
+Most people like to help other people succeed, and experienced UX designers remember what it's like to start their careers...don't be afraid to seek out a mentor. You might be surprised how happy people are to help you.  
+
+#### Topics to ask a mentor about
+* Finding their first job in UX
+* Developing specific skills or learning a new tool
+* Moving from the type of company you currently work at into UX design
+* Specializing in a type of design vs being a generalist
+* getting feedback on your portfolio
+
+#### How to reach out
+* Fill out and update your profile
+* Introduce yourself with a personalized message
+* Keep it short
+* Don't ask for a job
+* Be clear about what you want
+* Say thank you
+
+[Some templates.....](https://www.themuse.com/advice/want-people-to-accept-your-linkedin-requests-use-these-10-templates)
+
+
+### Let's have a conversation about Impostor Syndrome
+**Impostor Syndrome** - the belief that you're unskilled, inferior to others, or bad at your job, despite your successes.  
+
+#### Typical Impostor Syndrome Behaviors:
+* Not applying to jobs unless you meet every requirement
+* Taking on extra work to make sure you are 'doing it all'
+* not attending networking events or career fairs because you're nervous or anxious
+* Downplaying your abilities during conversations
+* Shrugging off compliments
+
+#### Impostor Syndrome Symptoms:  
+* Lack of self confidence
+* feeling like a fraud
+* Constant comparison to other people
+* Self doubt
+* Not trusting your intuition and capabilities
+* Negative self-talk
+* Irrational fears of the future
+
+#### Overcoming Impostor Syndrome:
+* Acknowledge the thoughts
+* Own your accomplishments
+* Make a list - 5 things that make you qualified or 5 accomplishments you're proud of
+* Have a conversation ...maybe with your mentor
+* Realize you are not alone
+* Be honest with yourself - a realistic evaluations of your strengths and weaknesses
+* Wear something that makes you feel confident
+* Help someone else
+* Fake it till you make it - act confident even when you are not and eventually you will carry that feeling with poise
+* Go with a friend - if networking is socially overwhelming, bring the reassurance of backup
+
+
+**Remember**: everyone starts out from the beginning
+**Good Advice**: Networking and growing your career is all about learning, not about being perfect. Don’t hold yourself to unreasonable standards. Instead, work to be the best designer you can be, be confident in who you are, and keep growing! 
+
+![](impsyn.png)
+
+**"Everybody's got something unique that they can bring to the table and value that they can add."**
+**"You will be amazed how people are willing to help you"**
 
 
 <br><br><br>
