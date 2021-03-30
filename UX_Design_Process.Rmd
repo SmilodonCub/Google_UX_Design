@@ -1,0 +1,114 @@
+---
+title: 'Google User Experience (UX) Design'
+subtitle: 'UX Design Process: Empathize, Define, and Ideate'
+author: 'notes along my way - Bonnie Cooper'
+date: "`r Sys.Date()`"
+output:
+  rmdformats::downcute
+---
+
+Course Objectives:  
+
+* Describe the role of UX Research in the Design Process
+* List Common Research Methods that are used in UX Design
+* Explain Research Methods Used During the Product Development Life Cycle
+* Identify and Account for Biases in UX Research
+
+**Empathy** is key to creating phenomenal experiences for our users  
+In this course we will learn how designers predict what a user or group of users might think as they interact with your product.  
+
+## Portfolio Project 1
+**Designing a Mobile App** to meet the specific need of a hypothetical business or organization. The project will focus on designing a process within a mobile app, and the Sharpen prompt generator will give you lots of ideas to choose from.
+
+<div class = "row">
+  
+<div class = "col-md-6">
+!['prompt example #1'](sharpen1.png)
+!['prompt example #2'](sharpen2.png)
+</div>
+<div class = "col-md-6">
+!['prompt example #3'](sharpen3.png)
+!['prompt example #4'](sharpen4.png)
+</div>
+</div>
+
+Course Instructor: Emily. UX Qualitative Researcher
+
+## WK1 Integrating Research into the Design Process
+At really large companies like Google, UX designers often have a dedicated UX Research partner, so designers don't have to do much research. However, at smaller companies, one UX designer might be responsible for both the UX research and the UX design.  
+
+
+### Introduction to UX Research 
+
+**UX Research** - focuses on understanding user behaviors, needs and motivations through observation and feedback.  
+UX research can help bridge the gap between what a business thinks it's users need and what the user actually needs before an expensive and time-consuming product is made. By observing users and collecting feedback, UX Researchers can better understand user behaviors, needs and motivations.  
+**Product Development Life Cycle** - the process used to take a product from an idea to reality.  
+UX Research is continually involved in the product development life cycle: before, during and after a design 
+
+Recall the product development life cycle: (1) Brainstorm, (2) Define, (3) Design, (4) Test, (5) Launch
+
+![](PDLC.png)
+
+**Foundational Research** - (strategic or generative research) define the problem you would like to design a solution for
+
+  * What should we build? 
+  * What are the user problems?
+  * How can we solve them? 
+  * Am I aware of my own biases, and am I able to filter them as I do research?
+  * happens: before you start designing (brainstorm stage)
+  * conducting foundational research (primarily through observation)
+    - interviews
+    - surveys 
+    - focus groups - a small group of people whose reactions are studied
+    - competitive audit - overview of competitors strengths and weaknesses
+    - field studies - out in the wild
+    - diary studies - users log activity to inform your designs
+
+**Design Research** - (tactical research) goal: inform how the product should be built
+
+* How should we build it? 
+  - How was your experience using the prototype today?
+  - How easy or difficult was it to use?
+  - Did you encounter any challenges?
+  - happens - while you design
+  - **usability study** - evaluate a product by testing it on users. identify pain points that the user experiences with the prototype so that issues can be fixed before product launch
+  - **A/B testing** - evaluate and compare two different aspects of a product to learn which is more effective
+  - **Cafe or Guerrilla studies** - spring a prototype on the unsuspecting public (i.e. at a cafe) to get feedback
+  - **Card Sorting** - subjects sort labels into groups that make sense to them. is great for figuring out the information architecture of a product
+  - **Intercepts** - a research method that gathers on-site feedback from users as they engage in the activities being researched
+  
+**Post-Launch Research** - How well a product is meeting the needs of users. Validates whether the product is meeting the users needs.  
+
+* Did we succeed?
+  - was it a good/poor experience
+  - how does it compare to others?
+  - happens: after the design is complete and the product has launched. 
+  
+UX Researcher Qualities  
+
+  * **Empathy** - able to understand someone else's feelings or thoughts in a situation
+  * **Pragmatism* ** - focused on reaching goals
+  * **Collaboration** = can work with a range of people, personalities and work styles
+  * **A?B testing**
+  * **Usability studies**
+  * **Surveys**
+  * **Logs Analysis** - a research method used to evaluate recordings of users while they interact with the design.
+
+**The key to a user-focused product: RESEARCH** - Research is crucial to creating a product that satisfies users. As an entry-level designer, it might be tempting to assume what the user needs based on your own experience, but as you know: The user comes first. Always make sure that your opinions are backed up by your research. You should get feedback from your users before, during, and after you design!
+
+
+
+
+## WK2 Empathizing with Users and Defining Pain Points
+
+
+
+## WK3 Creating User Stories and User Journey Maps
+
+
+
+## WK4 Defining User Problems
+
+
+
+## WK5 Ideating Design Solutions
