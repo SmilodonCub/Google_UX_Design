@@ -97,6 +97,95 @@ UX Researcher Qualities
 **The key to a user-focused product: RESEARCH** - Research is crucial to creating a product that satisfies users. As an entry-level designer, it might be tempting to assume what the user needs based on your own experience, but as you know: The user comes first. Always make sure that your opinions are backed up by your research. You should get feedback from your users before, during, and after you design!
 
 
+### Choose the Right Researh Method
+**Methods** - how you get the research done.  
+**Primary Research** - research you conduct yourself. Information from direct interactions with users (interviews, surveys, usability studies etc)  
+**Secondary Research** - research that uses information someone else has put together. Usually done early on (brainstorming stage) get to know the stats, facts and figures that already exist about our users. includes information from sources like books, articles or journals  
+  - Benefit: can save your team time & money. Is immediately accessible (online) & can be used to back up primary research  
+  - Drawbacks: get no direct feedback from first-hand interactions with your product/feature. no specific user feedback.  
+  - for more information about [secondary information](https://www.formpl.us/blog/secondary-research)
+**Quantitative Research** - (What) focuses on data that can be gathered by counting or measuring. Generally works with a larger number of uses with surveys that gather numeric data.  
+  - How many?  
+  - How much?  
+**Qualitative Research** - (Why) focuses on observations about why and how things happen. Generally works with a smaller number of users via interviews to focus on their needs in greater detail. is primarily collected through observations and conversations.  
+  - Why did this happen?
+  - How did this happen?  
+
+Common Research Methods  
+
+* **Interviews** - a research method used to collect in-depth information on people's opinions, thoughts, experiences, and feelings. can be 1:1 or a small (focus) group.  
+  - Qualitative Interview: open ended questions that return narrative answers
+  - Quantitative Interview: closed end questions (y/n, or numeric scores)
+  - Benefits: can understand what users think and why. can ask follow-up questions. can adjust questions based on the user's responses. can ask questions specific to a user's needs. can even receive direct suggestions from a user. 
+  - Drawbacks: take time & money which usually results in a small sample size. group interviews can show signs of bandwagon effect (people go along with a previous answer instead of sharing their unique opinion)  
+  - Rule of Thumb: collect at least 5 interviews to get a variety of responses.  
+  - for more info on [interviews](https://www.nngroup.com/articles/user-interviews/#:~:text=Topics%3A,of%20learning%20about%20that%20topic.)  
+* **Surveys** - an activity where many people are asked the same questions in order to understand what most people think about a product  
+  - Qualitative Survey: collects an open ended response
+  - Quantitative Survey: closed end questions (y/n or numeric scores)
+  - Benefits: larger sample size, fast and inexpensive  
+  - Drawbacks: survey responses are limited. don't allow for detailed responses. don't allow for personalization  
+  - for more info on [surveys](https://www.usability.gov/how-to-and-tools/methods/online-surveys.html)
+* **Usability Studies** - a technique to evaluate a product by testing it on users - see how users interact with a product/feature with interviews, surveys or observations. Is the product on the right track or does the design need adjustment?  
+  - Benefits: get in-depth feedback and first-hand observations of interactions. can challenge our assumptions about the user's experience and help reduce bias in designs.  
+  - Drawbacks: Only measures how easy a product is to use. Also expensive. also, also may not reflect how users interact with the product/feature outside of the UX lab  
+  - for more info on [usability studies](https://www.nngroup.com/articles/usability-testing-101/)  
+* **KPIs**: Key Performance Indicators - critical measures of progress toward an end goal.  
+
+**The research method we choose is decided by the question we're trying to answer.**  
+
+**"Within technology, you get a chance to just explore and play with stuff that maybe doesn't even exist yet"**
+
+
+For more on [UX Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)  
+
+<div class = "row">
+  
+<div class = "col-md-6">
+![](UXres_methods1.png)
+</div>
+<div class = "col-md-6">
+![](UXres_methods2.png)
+</div>
+</div>
+
+### Identifying Types of Bias in UX Research  
+**Bias** - favoring or having prejudice against something based on limited information.  
+While we can't completely remove biases, we can be more aware of them and work to overcome them.   
+Types of Bias  
+
+* Confirmation Bias - occurs when you start looking for evidence to prove a hypothesis you have.  
+  - Overcoming confirmation bias - ask open ended questions. actively listen without leading towards the answer. include a large number of diverse users.
+* False Consensus Bias - assumption that others will think the same as you do. This happens when we overestimate the number of people who will agree with out idea or design
+  - Overcoming false consensus bias - identify and articulate your own assumptions. reach out to large groups of diverse people
+* Primary Bias - Remember the first participant most strongly.
+  - Overcoming Primacy bias - take detailed notes of conversations/observations for future reference. interview participants in a consistent way
+* Recency Bias - It's easiest to remember the last thing you heard.  
+  - Overcoming recency bias - take detailed notes of conversation/observations for future reference. interview participants ina consistent way.
+* Implicit Bias - (unconscious bias) the collection of attitudes and stereotypes we associate with people without our conscious knowledge
+  - Common UX Mistake - when we only interview people within a limited set of identity profiles
+  - Overcoming implicit bias - reflect on our own behavior. ask others to point out our implicit bias. 
+* Sunk Cost Fallacy - the deeper we get into a project we've invested in, the harder it is to change course
+  - **sunk cost** - how much time/resources we have already spent on a project  
+  - Overcoming sunk cost fallacy - break your project into smaller phases. outline points where you can decide whether to continue or stop
+
+### Preventing Bias in Data Collection
+
+* **Choose your words carefully** - don't lead the user to your conclusion. **framing effect**: when users make a decision of choice based on the way information was presented to them
+* **Foster Independent Thinking** - combat bandwagon effect by asking users to write down or record their thoughts before discussing as a group
+* **Avoid Specific Language** - avoid questions or answer options that use specific phasing that leads towards evidence for a hypothsis of yours (confirmation bias)
+* **Limit the Guidance you give users** - it's important to let users find their own path through a products use. avoid false consensus: don't assume a user will use a product as you would. rather, let them interact and learn from them how a product is used.  
+* **Consider Users' Tone and Body Language** - interpret nonverbal  cues like tone and body language
+* **Be Careful of your own Body Language and Reactions** - avoid **social desirability bias** (participants response based on what the think you want to hear). ex: your tone of voice can influence a subject 
+* **Plan your Research Effectively** - take the time to properly recruit the right users for your research. avoid **Availability bias** (you rush the user recruitment process and fail to adhere to ideal user criteria)
+* **Remain Open Minded** - work hard to treat all information equal to prevent primacy/recency bias
+
+for more info on avoiding [Cognitive Bias](https://uxdesign.cc/10-cognitive-biases-to-avoid-in-user-research-and-how-to-avoid-them-993aa397c8c6)
+
+**"...channel to voice of people, their motivations, their desires, their needs"**
+
+
+THE GOAL OF UX RESEARCH IS TO PRIORITIZE THE USER  
 
 
 ## WK2 Empathizing with Users and Defining Pain Points
