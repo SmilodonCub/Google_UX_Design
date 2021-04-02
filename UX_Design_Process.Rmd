@@ -190,6 +190,88 @@ THE GOAL OF UX RESEARCH IS TO PRIORITIZE THE USER
 
 ## WK2 Empathizing with Users and Defining Pain Points
 
+### Empathize with users
+User empathy brings you closer to your potential user, and helps you create positive user experiences.  
+**Empathy** - the ability to understand someone else's feelings or thoughts in a situation. when you empathize with someone, you share their mental and emotional experiences.  
+UX design is not about solving problems we *assume* users want solved. it's about solving problems that users *actually* want solved.
+
+### Understand empathy in UX design
+empathizing with users enhances the products you create because you experience the product as your user does.
+
+**How to Empathize with Users**  
+
+* Ask lots of questions - what, how, why to gain a deeper understanding of your user' perspective
+* Become more observant - take detailed notes, or even record sessions with users
+* Request input - use open ended questions to understand the user's actual thoughts on the experience/product
+* Have an open mind - set bias aside to better empathize with users
+* Keep current on UX research - research is always changing and evolving. staying current will give you an advantage to understanding your audience
+
+**Empathy vs Sympathy**  
+
+* Empathy - Actually understanding another person's thoughts or feelings by using your own experiences to understand theirs. understanding someone's feelings or thoughts often by experiencing the emotions yourself
+* Sympathy - Identifying another person's situation and reacting with support and comfort that stays superficial and impersonal. the experience of showing concern or compassion without feeling the emotions yourself
+* By empathizing effectively with your users and doing your best to understand their needs, you build a great foundation for a product experience that will help solve their unique problems.
+
+EMPATHY:: *"I'm stuck. It's dark. I'm overwhelmed."....."I know what it's like down there and you are not alone."*
+
+### Recruiting Interview Participants  
+How to find and recruit people who want to be interviewed
+
+1. Determine clear interview goals ... to make sure both you and the user get the most of the time. Are there certain user problems or pain points that you need to empathize with.  
+2. Write interview questions ... the more aligned the interview questions are with your goals, the more useful the data you obtain will be. 
+  - Ask open-ended questions ... the user will answer freely instead of yes/no
+  - Keep questions short and simple ... should be easy for users to follow
+  - Ask follow-up questions ... interviews should be conversational ... encourages users to elaborate on their experience
+3. Use a screener to select a representative sample of study participants ... the participants you select for a research study should be based on your research goals and the target users of the product you're designing
+  - **screener survey** - a detailed list of questions that help researchers determine if potential participants meet the requirements of the research study.
+  - **demographics** - characteristics of a group or individual ... 'in the spirit of inclusive design, we are asking these questions to make sure we're reaching out to a diverse group of people'
+  - **representative sample** - is a small group of participants who represent both the target user group *and* user groups that are often marginalized
+4. Find Research Participants ...
+  - **Personal Network** - family, friends, colleagues who fit the demographics of the target users
+  - **Existing User Base** - group of established user connections
+  - **Online** - use social media or websites created specifically to connect with research participants (UserTesting & User Interviews)
+  - **Hallway Testing** - asking people that happen to be passing by
+  - **Third-party Recruiting Agencies** - expensive, but save time and can reach diverse users
+5. Reach out to Participants - send a message & maybe offer an incentive
+
+### Conducting user interviews ... 
+
+1. Prepare for the interview
+  - Collect supplies - gather equipment or technology needed for the interview & make sure you know how it works
+  - Research the users - if possible, it is nice to know the name &/or demographic of a user beforehand because this can be great to help build a rapport
+  - Script interview questions - develop a list of questions so that the interview process can be consistent across users. You can deviate from the questions is necessary to learn more about pain points
+  - Practice - practice your delivery before you conduct a real interview
+2. Meet the Participant
+  - Build a rapport - establish a professional but friendly interaction
+  - Thank the users for participating - show gratitude and let the users know that their time & opinions are valued
+  - Gather basic details - get any basics you need done first before moving on the the meat of the interview (e.g. demographics)
+3. Conduct the Interview
+  - Follow Interview Etiquette - speak clear & concise. be professional. be an active listener
+  - Ask open-ended questions - avoid yes/no questions. ask questions that provoke ellaboration. ask follow up questions.
+4. Take Notes
+  - Highlight compelling quotes - Interesting quotes are strong indicators about how users really think and feel
+  - Document observations about participants - mood, expressions, body language and behaviors.
+  - Consider recording interviews - consent is key. recorded interviews can be really helpful later
+5. End the Interview
+  - Ask for final thoughts. some participants may open up about their opinions and reveal insights that they didn't share earlier
+  - Thank the participants one last time. you want the participants to leave the interview on a good note
+  
+### Create Interview Transcripts
+**interview transcripts** - typed or written version of the conversation  
+you will need: interview recordings, a way to play the recording back, pen/paper or something else to transcribe with  
+
+1. Create a blank document for each interview
+  - participant's name on top
+  - brief introduction to the participant including demographics: age, job title, context that is relevant to the product  
+2. Write in the interview questions in the order they were asked
+  - place **[UX Researcher]** before each question
+  - place **[<participant's name>]** before each answer space
+  - make sure you have enough space to transcribe
+3. Play the interview recording and write the participant's responses to each question word-for-word
+
+
+
+
 
 
 ## WK3 Creating User Stories and User Journey Maps
