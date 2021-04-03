@@ -269,10 +269,129 @@ you will need: interview recordings, a way to play the recording back, pen/paper
   - make sure you have enough space to transcribe
 3. Play the interview recording and write the participant's responses to each question word-for-word
 
+***
+### Portfolio Project 1: **Design a Mobile Payment app for a Bicycle Shop in Athens**
+
+#### Interview Goals:
+I want to understand common challenges that bicycle shop customers face when they are trying to make payments for goods or services  
+I want to identify frustrations that bike shop customers experience when trying to make purchases
+
+#### Interview Questions
+
+* Could you describe your bike needs at this shop?
+* Have you recently taken your bike here to be serviced and if so what challenges did you face?
+* Have you recently purchased a bike here and if so what challenges did you face?
+* Have you made any other purchases for bike parts or accessories and if so, what challenges did you face?
+* Is there a way that you feel these challenges could be resolved?
 
 
+#### Target Participant Characteristics
+
+* Bike riders
+* Ages 16+ or otherwise making independent purchasing choices 
+* Include participants of different genders
+* Include participants with different bikes, purposes for riding, & riding abilities
 
 
+***
+
+### Interview #1
+
+* **[UX Researcher]** Could you describe your bike needs at this shop?
+  - **[Zach Blackburn]** I need new sealant in my tires
+
+* **[UX Researcher]** Have you recently taken your bike here to be serviced and if so what challenges did you face?
+  - **[Zach Blackburn]** There was a line out the door
+  - **[UX Researcher]** Oh, I'm sorry about that. The lines have been pretty long during COVID aren't they? Could you tell me about your experience in that line ... what stand out in your mind?
+  - **[Zach Blackburn]** Uh... it really only took about 5 or 6 minutes and the staff was really friendly
+  - **[UX Researcher]** That's good to hear. I'm sure they would really appreciate to know you noticed that. 
+* **[UX Researcher]** Have you recently purchased a bike here and if so what challenges did you face?
+  - **[Zach Blackburn]** Uhhhmmm... it was tough to find a saddle because they were not in stock ... the saddle I was used to was not in stock and normally they'd be able to order it but they couldn't order it because the supply lines were jammed up. some stuff is just not available for months
+  - **[UX Researcher]** Wow. yeah that can be quite frustrating. What did you end up doing to resolve the situation?
+  - **[Zach Blackburn]** I found it and bought it off ebay.
+  - **[UX Researcher]** OKay so you were able to get a seat that's great
+  - **[Zach Blackburn]** but I wasn't able to get the one I was used to so I just bought it online
+  - **[UX Researcher]** Do you happen to remember the timeline or would they even have been able to gove you an estimate of how long it would take to order the seat?
+  - **[Zach Blackburn]** Uhh it looked like it was gonna be about three weeks
+  - **[UX Researcher]** Alright, so yeah, its seems three weeks is a bit too long to go without something to sit on!
+  - **[Zach Blackburn]** (laughs)
+  - **[UX Researcher]** Yeah, OKay
+* **[UX Researcher]** Have you made any other purchases for bike parts or accessories and if so, what challenges did you face?
+  - **[Zach Blackburn]** (exhales & long pause)
+  - **[UX Researcher]** I guess an example might be, did you have trouble finding things?
+  - **[Zach Blackburn]** well the shop is immaculate and organized and there's so much helpful staff around
+  - **[UX Researcher]** That's great..they'll definitely appreciate that feedback
+* **[UX Researcher]** (Overall) Is there a way that you feel these frustrations/challenges could be resolved? -obviously we can't make a new saddle ourselves but is there anything offhand you can think of that could be improved
+- **[Zach Blackburn]** There could be a livefeed camera of the line outside so I would know when it was busy or not
+- **[UX Researcher]** Interesting!, yes we didn't think to do that (laughs) but that would be a really interesting feature or even just a general livefeed outside the shop so anyone could see if it was recycling day or not. That might be interesting to some people.
+* **[UX Researcher]** OKay, well that was my last question and I want to thank you for your time and we definitely appreciate you taking some time to help us understand how to make our jobs work more for you. So thank you very much and I will leave you to your day. Appreciate you and have a good day!
+- **[Zach Blackburn]** glad to help
+
+***
+
+
+### Build an Empathy Map
+**Empathy Map** - an easily understood chart that explains everything designers have learned about a type of user  
+Visualize empathy. An empathy map consists of four squares, which show what the user says, does, thinks and feels. Empathy maps break down each interview into easy to understand pieces of information
+
+![](empathymap.png)
+
+* **Step 1: Add the user's name** distinguish the map from the others
+* **Step 2: The 'SAYS' square** use verbatim quotes
+* **Step 3: The 'THINKS' square** thoughts expressed by the user. can be verbally expressed or conveyed through expression, body language etc. you can always ask for clarification
+* **Step 4: The 'DOES' square** actions made the user describes making
+* **Step 5: The 'FEELS' square** feelings/emotions the user expresses
+
+My first attempt:
+![](empathyMap.png)
+
+Exemplar Empathy Map:
+![](exemplarEmpathyMap.png)
+
+**One-user empathy map** - content from one user's interview  
+**Aggregated empathy map** - content from multiple users' interviews. helpful for identifying similar tendencies & themes in users  
+
+**The user would be very happy (FEELS) if the app would provide the exact solution that he needs (SAYS) because currently he has to work harder (DOES) than he can and should (THINKS). **  
+
+### Identify User Pain Points  
+$$\mbox{Brain} + \mbox{Heart} = \mbox{User Experience}$$
+Empathizing is your number one superpower, because it helps you spot user problems  
+To make sure you research is addressing something that will have impact, set clear actionable goals by focusing on user problems. 
+
+**Pain Points**: any UX issues that frustrate the user and block the user from getting what they need.  
+
+Identifying user pain points:  
+
+* **research** - to get into the user's head and understand where they are coming from
+* **anticipate** - both the needs the user knows they have and the needs the user doesn't yet know they will face  
+
+Types of Pain Points:
+
+* **financial** - money related. e.g. getting interrupted by a paywall. unexpected fees etc.
+* **product** - quality/performance issues related to the product. product does not work as anticipated (e.g. Norman doors)
+* **process** - frustrations that prevent a user from navigating a product (getting from point A to point B e.g. getting to checkout while shopping)
+* **support** - if customers can't get answers an how to use a product
+
+Empathy maps help us to identify pain points by showing us what the user thinks, says and does. When you can identify pain points, you can develop more meaningful solutions.   
+
+### Create Personas
+**Personas** - fictional users whose goals and characteristics represent the needs of a larger group of users  
+**User group** - A set of people who have similar interests, goals or concerns  
+
+Example persona:
+![](examplePersona.png)
+![](examplePersona2.png)
+
+Benefits of Personas:  
+
+* **Build Empathy** - help to humanize our users
+* **Tell Stories** 
+* **Stress-test designs**
+
+Construct a set of user personas such that all user groups are represented. this shows the diversity of user groups and lets you test features against them and let us stress-test a design
+
+#### Building Personas
+Look for common themes in your data and group your users who personify those themes together. Generally, creating 3 - 8 personas is enough to represent the majority of a product's user base. Personas are content-specific, meaning they should be focused on the behaviors and goals of users interacting with the product efficiently
 
 ## WK3 Creating User Stories and User Journey Maps
 
