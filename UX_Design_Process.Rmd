@@ -395,10 +395,149 @@ Look for common themes in your data and group your users who personify those the
 
 ## WK3 Creating User Stories and User Journey Maps
 
+### Craft User Stories
+**User Stories** - (scenarios or user cases) a fictional one-sentence story told from the persona's point of view to inspire and inform design decisions. It introduces the user, lays out an obstacle, and states the ultimate goal.
 
+$$\mbox{User Story} = \mbox{Hero} + \mbox{Goal} + \mbox{Conflict}$$
+$$\mbox{As a} <type of user>, \mbox{I want to} <action>, \mbox{so that} <benefit>.$$
+where $<type of user> == \mbox{Who}$, $<action> == \mbox{What}$ and $<benefit> == \mbox{Why}$
+
+![](userStories.png)
+
+EX: *"As an online shopper, I want to receive texts when the product arrives so that I may pick it up right away."*
+my EX1: *"A a Jr. Business Professional, I know they're a complicated mess, but I need a notification of when to pick up my large order so that I can return to the office without needing to second guess whether the order was completed correctly"*
+my EX2: *"As a freelancer who uses the CoffeeHouse as my office on the regular, it is important that I can have space to work with wifi as strong as my coffee so that I can be productive"*
+
+Advantages of user stories  
+
+* Prioritize design goals
+* Unite the team around a common design goal
+* Inspire empathetic design decisions that make the effort more 'usercentric'
+* Personalize pitches to stakeholders by presenting design updates that help specific types of people
+
+
+### Consider Edge Cases
+**Happy Path** - a user story with a happy ending  
+**Edge Case** - what happens when things go wrong that are beyond the user's control  
+
+Spotting & Resolving Edge Cases  
+
+* Create personas and user stories - develop personas and user stories for a wide variety of users to help keep the most vulnerable users on the happy path
+* Thoroughly review the project before launch - review from the user's perspective to identify edge cases
+* use wireframes to help visual the project which makes it easier to identify user pain points
+
+*"an edge case is a situation within a product experience that the product team doesn't think is going to be common ... is outside of the typical flow"*  
+*"Often, what you think is going to happen when your app is in the hands of a user is actually not what happens"*  
+*"Identifying future use cases vs current use cases ..."*
+
+
+### Create a User Journey Map
+**User Journey** - The series of experiences a user has as they interact with your product. It's an illustration of what the user goes through to achieve their goals.  
+
+Benefits of User Journey Mapping  
+
+* A user journey map helps UX designers create obstacle-free paths for users.
+* Reduces impact of designer bias
+* Highlights new pain points
+* Identify improvement opportunities
+
+Creating a User Journey Map  
+
+1. Add each action in the journey until the user reaches their goal
+2. Add descriptions of each action: what tasks does the user have to do to complete the action?
+3. Add how the user feels at each point (guesstimations are okay!)
+4. Add opportunities for improvement (this is where new ideas come in)
+
+Example:  
+![](userJourneyMap.png)
+
+
+### Consider accessibility when empathizing
+People with disabilities share the same goal for any given user problem that you are trying to solve. Accessibility is not just designing to include a group of users with varying abilities. Instead, it extends to anyone who is experiencing a permanent, temporary or situational disability.  
+**Accessibility** is the design of products, devices, services or environments for people with disabilities. Designing for accessibility is about considering all users' journeys, keeping their permanent, temporary or situational disabilities in mind.  
+**Assistive technologies** services and apps designed to help bridge usability gaps for differently abled
+
+*"Inclusive design is a win-win for customers and business. It expands your product's reach, sparks innovation, and helps your company take on a position of social responsibility"*
+
+
+### Understanding the Curb Cut Effect
+**Curb-cut Effect** A phenomenon that describes how products and policies designed for people with disabilities often end up helping everyone
 
 ## WK4 Defining User Problems
 
+### Create Problem Statements
+entering the **Define** stage of the design process framework....  
+**Problem Statement** - a clear description of the user's needs that should be addressed. Problem statements provide clarity about your users' goals and help UX designers identify constraints that prevent users from meeting those goals.  
+
+* Human-centered
+* Broad enough for creative freedom
+* Narrow enough to be solved by a design
+* takes the following form: (user name) **is a** (user characteristics) **who needs** (user need) **because** (insight)
+  - ex: Amal is an athlete who needs to sign up for workout classes because the class he wants to participate in fills up fast.
+* we can learn from effective problem statements
+  - establish goals
+  - understand constraints
+  - define deliverables
+  - create benchmarks for success
+* framework to create problem statements: **5 Ws and H** - who, what, where, why, when and how
+
+
+### Define Hypothesis Statements
+**Hypothesis Statements** our best educated guess on what we think the solution to a design problem might be  
+
+* if/then form (focus directly on the needs of the user): **If** (action) **then** (outcome)
+  - ex: If Amal downloads the gym's app, then he can reserve his favorite class in advance
+* "We believe" form (take the perspective of your team into account): **We believe** (design feature) **for** (user) **will** (outcome)
+  - ex: We believe that a simplified mode for a dog walker app for Arnold will allow them to hire dog walkers efficiently
+* however, there is no rule for how a hypothesis needs to be stated...can be more flexible
+  - ex: Amal needs an app that allows him to reserve his favorite class in advance and notifies him of the first opportunity to sign up.
+* a problem statement might need multiple solutions for your users' problems...that's okay
+
+The **empathizing phase** allowed us to consider the users perspectives. Then, the **defining phase** involves sorting through the information gathered in the empathizing phase to formalize the user's problems (i.e. **problem statements**) so that we can begin coming up with solutions as we create **hypothesis statements**.
+
+
+### Create a Value Proposition
+UX design goal $\longrightarrow$ create products that provide a clear value for users  
+**Value Propostitions** - summarize why a customer should use a product or service. i.e. what does your service/product offer that could benefit the user...perhaps even over the competition.  
+
+* What does your product do?
+* Why should the user care? ..how does the product/service address pain points
+
+1. **Step1: Describe your products features and benefits.** list everything that comes to mind
+2. **Step2: Explain the value of the product.** arrive at this by sorting the product features/benefits into categories
+3. **Step3: Connect these features and benefits with the needs of your users** identify what is truly valuable to the user. try matching personas to the value propositions that meets the biggest pain point
+4. **Step4: Review your official value proposition list** review the value propositions. learn what makes your product stand out by looking at the reviews of for the competition. Does your service/product's value proposition meet any of these needs?...
+
+One of the most important things to know about value propositions is that they need to be short, clear, and to the point. Users want to be able to easily identify exactly how your product will meet their unique needs and what sets your product apart in the market. Sometimes users won’t know what they need until you explain it to them. That’s the real heart of product design innovation.
+
+
+### Understanding Human Factors
+**The human factor** describes the range of variables humans bring to their product interactions  
+ex: TL;DR $\rightarrow$ Too Long; Didn't Read accounts for the limited attention span of many human users.  
+**Mental Models** - Internal maps that allow humans to predict how something will work.  
+**Feedback Loops** - the outcome a user gets at the end of a process.  
+
+Common Human Factors that Inform Design  
+
+* Impatience
+* Limited Memory
+* Needing Analogies
+* Limited Concentration
+* Changes in Need
+* Needing Motivation
+* Prejudices
+* Fears
+* Making Errors
+* Misjudgment
+
+**Von Restorff effect/ Isolation Effect** - when multiple, similar objects are present, the one that differs from the rest is most likely to be remembered. This is the main reason why all 'call-to-actions (CTAs - a visual prompt that tells a user to take an action) look different from the rest of the action buttons on a site or application  
+**Serial Position Effect** - when given a list of items, people are more likely to remember the first few and the last few, while the items in the middle tend to blur. This is why most applications place the most important user actions to the right or left of a bottom or top navigation bar.  
+**Hick's Law** - The more options a user has the longer it takes for them to make a decision. If the number of choices increases, the time to make a decision increases logarithmically this also has the effect of making the users experience more difficult.  
 
 
 ## WK5 Ideating Design Solutions
+
+
+
+
+<br><br><br>

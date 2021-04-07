@@ -1,0 +1,31 @@
+---
+title: "Create a User Journey Map"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Sharpen prompt
+"Design a mobile payment app for a bicycle shop in Athens"
+
+## User Journey Map
+![](userJourneyMap2.png)
+
+## Context: User Group & User Persona
+### **Group 1**: Commuters are adults who use their bicycle primarily to communte to and from work  
+
+* Typically aged mid 20s to 50ish years old
+* Generally own one bicycle that is only used for commuting
+* Commuter bicycle is usually priced mid-range, with conservative geometry and generic build.
+* Bicycle might accumulate damage from continual use and being locked up &/or stored outdoors.
+* Commuters might not identify as a 'cyclist' and may have only limited mechanical skills
+
+### Example Commuter Persona:
+
+![Sophia: the Commuter](persona2.png)
+
+<br><br>

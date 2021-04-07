@@ -1,0 +1,31 @@
+---
+title: "Characteristics of Successful Products"
+subtitle: "the Forest app"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<div class = "row">
+  
+<div class = "col-md-4">
+![](forestIcon.png)
+</div>
+  
+<div class = "col-md-8">
+
+#### How did this product address special design problems that are not already fulfilled by other products?
+Forest is an aesthetically pleasing motivation tool to reduce a user's dependency on their smart phone or web browzer while improving focus on other activities. As a bonus feature, virtual coins are earned which can be 'spent' on planting real trees through a partnership with Trees for the Future.   
+
+#### What made it successful or useful?
+The app periodically introduces new 'species' of trees to grow which keeps a simple app interesting and appealing. There are numerous features to visually represent a user's progress. This is an app for social good where a user's time translates to aiding reforestation efforts.  
+
+#### What is the product's value proposition?
+Help reduce digital dependencies while contributing to global conservation efforts.  
+
+</div>
+</div>
+
+![](forest1.jpg)

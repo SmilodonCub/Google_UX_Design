@@ -1,0 +1,41 @@
+---
+title: 'Portfolio Project #1: Personas'
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Designing a Mobile App: **Design a mobile payment app for a bicycle shop in Athens** 
+
+Here are two example personas for two different user groups created for this design scenario:
+
+
+### **Group 1**: Commuters are adults who use their bicycle primarily to communte to and from work  
+
+* Typically aged mid 20s to 50ish years old
+* Generally own one bicycle that is only used for commuting
+* Commuter bicycle is usually priced mid-range, with conservative geometry and generic build.
+* Bicycle might accumulate damage from continual use and being locked up &/or stored outdoors.
+* Commuters might not identify as a 'cyclist' and may have only limited mechanical skills
+
+### Example Commuter Persona:
+
+![Sophia: the Commuter](persona2.png)
+
+***
+
+### **Group 2**: Weekend Warriors are typically young Adults who ride their bicycle for adventure or sport on the weekend
+
+* Typically young, single professionals aged 25-35 year old
+* Probably owns more than one bike
+* Bikes are specialized for use: road bike, mountain bike, track bike, gravel bike etc. and may lean towards the higher price points available on the market.
+* Weekend Warriors identify as cyclists and find a connection with the broader cycling community
+
+### Example Weekend Warrior Persona:
+
+![Yiannis: the Weekend Warrior](persona4.png)
+
+***
+<br><br><br>
