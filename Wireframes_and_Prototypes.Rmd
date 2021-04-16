@@ -1,0 +1,67 @@
+---
+subtitle: "Google User Experience (UX) Design"
+author: "notes along my way - Bonnie Cooper"
+date: "`r Sys.Date()`"
+title: 'Build Wireframes and Low-fidelity Prototypes'
+output:
+  rmdformats::downcute
+---
+
+## Storyboarding & Wireframes
+Continue to Ideate and explore solutions in a low effort, low cost way.  
+Come up with ideas for solutions that address the users' needs by creating wireframes and low-fidelity prototypes of the app.
+
+### Use Research to Inform Ideation
+Empathy maps, personas, user stories, and user journey maps are tools UX designers commonly use to expand our understanding of the people we are designing for. Let's review those concepts:
+
+* Empathy Maps - an easily understood chart that explains everythong designers have learned about a type of user. explore' users' four main motivations: what the user says, thinks, does and feels. The insights gathered from empathy maps help you come up with ideas for solutions to address the user's real problems.
+* Personas - fictional users whose goals and characteristics represent the needs of a larger group od users. Place the users who you are designing for front-and-center. By creating detailed user personas, you can clearly envision potential users that you'd design for.
+* User Stories - fictional one-sentence story told from a perona's point of view to inspire and inform design decisions.  determine which user needs are the most critical to address with your designs. This direction will help focus your ideation
+* User Journey Maps - the series of experiences a user has as they interact with your product. helps you come up with ideas for designs that truly support the users' needs and solve their problems
+* Problem Statement - is a clear description of the user's needs that should be addressed. The problem statement will guide the focus of your ideation.  
+
+#### Revisiting Problem Statements
+A problem statement includes a fictional user's name, characteristics, their needs, and a key insight gained from your research.
+
+$\underline{\mbox{  (user's name) }}$ is a/an $\underline{\mbox{  (user characteristic) }}$ who needs $\underline{\mbox{  (user need) }}$ because $\underline{\mbox{  (insight) }}$  
+
+*"What research should we be doing? Where can we have real benefit and impact to the business?"*
+
+### Build Goal Statements
+**Goal Statement** - one or two sentences that describes a product and it's benefit for the user. goal statements focus the scope for future designs...gives the ideal solution for the design  
+**Goal Statements...** focus on **who** the product will srve, **what** the product will do, and **why** the product solves the user's need.  
+To determine the who, what and why, refer back to the problem statement(s)  
+
+$\underline{\mbox{  (user's name) } \Large{WHO} }$ is a/an $\underline{\mbox{  (user characteristic) }\Large{WHO}}$ who needs $\underline{\mbox{  (user need) }\Large{WHAT}}$ because $\underline{\mbox{  (insight) }\Large{WHY}}$  
+
+Now to transition from identifying the problem to defining the goal with a goal statement  
+Goals statements include:  
+
+- description of the specific action users can take or what the product will do
+- defines who the action will affect
+- states the positive impact of the action or why the product solves the user's need
+- outlines success in measurable terms
+
+Our $\underline{\mbox{  (product) } \Large{WHAT} }$ will let users $\underline{\mbox{  (perform specific actions) }\Large{WHAT}}$ which will effect $\underline{\mbox{  (describe who the action will affect) }\Large{WHO}}$ by $\underline{\mbox{  (insightdescribe how the action will positively affect users) }\Large{WHY}}$  
+We will measure effectiveness by $\underline{\mbox{  (describe how you will measure the impact) } \Large{HOW} }$
+
+My attempt:  
+![](goalStatement.png)
+
+Exemplar:  
+![](goalStatement_exemplar.png)
+
+Goal statement for my sharpen prompt (Portfolio Project #1):  
+![](goalStatement_sharpen.png)
+
+
+### Outline User Flows
+
+
+### Create Storyboards
+
+
+### Get Started with Wireframes
+
+
+<br><br><br>
