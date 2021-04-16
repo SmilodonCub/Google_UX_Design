@@ -1,8 +1,8 @@
 ---
-title: 'Google User Experience (UX) Design'
-subtitle: 'UX Design Process: Empathize, Define, and Ideate'
-author: 'notes along my way - Bonnie Cooper'
+title: "Google User Experience (UX) Design"
+author: "notes along my way - Bonnie Cooper"
 date: "`r Sys.Date()`"
+subtitle: 'UX Design Process: Empathize, Define, and Ideate'
 output:
   rmdformats::downcute
 ---
@@ -537,7 +537,151 @@ Common Human Factors that Inform Design
 
 ## WK5 Ideating Design Solutions
 
+### Understand Design Ideation
+**Ideation** - the process of generating a broad set of ideas on a given topic, with no attempt to judge or evaluate them. A broad set that allows any idea to be included no matter how 'crazy'. At this stage, there are no bad ideas.  
+The more you practice with coming up with lots of ideas, the more natural it will feel.  
 
+Ideation in the real world  
+
+* Brainstorm out loud
+* Document all ideas
+* Focus on quantity
+* Do not allow evaluation
+* Gather a diverse team
+* Question the obvious
+* then, take a break ....
+* after a break get everyone together to evaluate the ideas 
+  - Feasibility: technically possible to build
+  - Desirable: best at solving the user problem
+  - Viable: financially beneficial for the business
+
+Preparing for Ideation:
+
+* Empathise with your user -know who you're solving for and what their needs are.
+* Define the problem - know exactly what user problem needs to be addressed.
+* Establish a creative environment - a comfortable & distraction free space
+* Set a time limit - set a time to stop brainstorming and start evaluating ideas
+* Assemble a diverse team - diverse group will generate diverse ideas
+* Think outside the box - think big and get creative
+
+### Explore lots of Ideas
+push past the obvious ideas to get to the innovative ones.  
+
+Why should we come up with lots of ideas?  
+
+* List of ideas is narrowed based on constraints
+* Need to focus on equity for more people- the first idea might not work for everyone, but if you have many ideas, you might finds solutions 
+* Let users test the ideas
+
+### Recognize business needs during design ideation
+Small changes in language communicate a brand's voice and tone and help improve the user experience.  
+
+### Scope the Competition
+**Competitive Audit** - an overview of your competitors' strengths and weaknesses. competitive audit is a tool to explore ideas for designs so that we can learn from others about what has worked or not worked.  
+It's helpful to audit a wide range of products that compete with yours to get a full picture of the landscape.  
+**Direct Competitors** - having offerings that are similar to your product and focus on the same audience.  
+**Indirect Competitors** - Have a similar set of offerings but focus on a different audience, or have a different set of offerings and focus on the same audience.  
+
+- Identify your key competitors
+- Review the products that your competitors offer
+- Understand how your competitors position themselves in the market
+- Examining what your competition does well and what they could do better
+- Consider what your competitors think about themselves
+
+Benefits to competitive audits:  
+
++ inform your decision process - how did competitors attempt the user problem?
++ solve usability problems - are there identifiable pain points in the competitions product?
++ reveal gaps in the marketplace - what user needs does the competition's product not meet?
++ provide reliable evidence - deeper understanding of business needs and market gaps. 
++ demonstrating the expected life cycle of a product in the same market place as yours
++ informing all the different iterations your product could take and how those performed for your competitors
++ save time, money & energy
+
+### Limits to competitive audits 
+
+* May stifle creativity - innovation doesn't happen by copying the competition. the key is to understand what the competition is doing and to use that as a starting point
+* Depends on how well you interpret the findings
+* Not all designs work in all use cases
+* Comp. audits need to be done regularly - keep up with competition
+
+### Steps to conduct a competitive audit
+
+1. Outline the goals - Create an outline or rubric that lays out the details of the audit. what product features do you want to focus on?
+2. List the Competitors (rows) - Create a spreadsheet of competitors (direct & indirect)
+3. List of features to compare (columns) - Call out the specific features you want to compare. e.g.: audience, first impressions, interaction, visual design, content
+4. Research each company
+5. Analyze your findings - what are the similarities
+6. Summarize your findings in a report
+
+
+### Presenting a Competitive Audit
+Organizing and presenting competitive audit results  
+
+* Start out with the Goals of the competitive audit
+* Clearly section of parts of the presentation
+* Summarize what you learned using uncluttered easy to digest slides with summary of key points
+
+### Use insights from competitive audits to ideate
+
+* Take your team through the matrix of the competitive audit
+* Identify low hanging fruit
+* Brainstorm gaps or opportunities
+* Sort the ideas - uncover patterns and get a short list of ideas
+
+**"Research is like party planning. You have to just think of everything ahead of time."**
+
+### Analyze a competitive audit
+Consider the features you want to evaluate (column labels of the competitive audit spreadsheet)  
+
+* Compare strengths and weaknesses
+* Brainstorm about the low-hanging fruit
+  - Low-hanging fruit: easy to accomplish tasks that can make a difference to your product with a minimal effort
+  - Gaps - the differences between what you and your competitors offer
+  - Opportunities  - things you can do to fill the gaps
+
+
+### Use 'How Might We' to Ideate
+a design thinking activity used to translate problems into opportunities for design
+
+* How - Explore a bunch of ideas
+* Might - Our ideas are possible solutions, not the only solution
+* We - Collaborative effort
+* Ex: 
+  - How might we design a safe and comfortable seat for a child to ride a bike with an adult?
+  - How might we design an eating ware set for children and toddlers that will keep meal time appealing, comfortable and mess-free?
+* Ways to create 'how might we' phrases:
+  - Amp up the good - use any positives in a problem as a solution
+  - Explore the opposite - how would you design the opposite of your problem
+  - Change a status quo - completely change the process
+  - Break the point-of-view into pieces - for looong and complex problems
+  - Remove the bad - how might you remove the negative of a problem
+  - Go after adjectives - take negative adj. and turn them into positives
+  - Question an assumption - change/remove components of a problem that you assumed need to be part of the solution
+  - Create an analogy using the established need or context -think of ways to compare one UX to another
+  - Identify unexpected resources that can provide assistance
+* Best practices for thinking of HMWs
+  - Be broad - HMWs should allow for many many possible solutions
+  - But don't be too broad - keep the focus narrow enough that the solutions maintain focus
+  - Make multiple drafts - write, rewrite, change, alter etc.
+  - Be creative - be imaginative and fun
+  - Write as many HMWs as you can - the more HMWs, the more solutions you'll think of
+  
+### Use Crazy Eights to Ideate
+Sketch eight different designs, each with a new idea for solving a user problem. Crazy Eights generates a lot of ideas in a small amount of time and forces you to think outside of the box.
+
+Crazy Eight Best Practices  
+
+* Do a creative warm-up exercise
+* Make sure your problem is well defined
+* Don't judge your ideas
+* Don't judge other peoples ideas
+* Include a diverse group
+* Ideate in a comfortable environment
+* Don't be afraid of sketching
+
+### Consider the User's Journey during Ideation
+User's Journey - The series of experiences a user has while interacting with a product
 
 
 <br><br><br>
