@@ -57,11 +57,101 @@ Goal statement for my sharpen prompt (Portfolio Project #1):
 
 ### Outline User Flows
 
+Outline a User Flow  
+**User Flow** - is the path taken by a typical user on an app or a website, so that they can complete a task from start to finish.  
+Create user flows before designing an app, because it can help to picture how users will move through an app or website. You will need to determine:  
+
+* What actions will users take in the app?
+* What decisions will users make?
+* What screens will users experience after taking action or making a decision?
+
+![](userFlow_pic.png)
+
+* **Action** - (circle) the actions users take when moving through a product design
+* **Screen** - (rectangle) the screens of a digital product that users will experience while completing tasks
+* **Decision** - (diamond) points in the user flow where users must ask a question and make a decision
+* **User flow direction** - lines with arrows tie everything together
+
+Consider the entire journey the user takes in order to get what they need from the product.   
+![](userFlow_exp.png)
+
+How do user flows compare to other processes:  
+
+* A **user journey map** focuses on the end-to-end use case for one specific user type and one specific user case
+* **Storyboards** are a visual representation of the way that a user interacts with one or multiple areas of your product
+* A **user flow** describes what users see and how they interact with a product as they reach their goal. User flows illustrate all the different paths that users can take to reach their goal.
+
+* Clear an easy flow for users to get from the entry point of opening the app, to completion of the task
+* Clearly labeled steps 
+* Lines and arrows connecting the steps of the user flow
 
 ### Create Storyboards
 
+Introduction to story boarding user flows  
+**Storyboard** - a series of panels or frames that visually describe and explore a user's experience with a product.  
+
+Four elements of a storyboard  
+
+1. Character - the user in the story
+2. Scene - helps us imagine the user's environment
+3. Plot - the benefit or solution of the design
+4. Narrative - the user's need or problem and how the design will solve the problem
+
+Understand the two types of storyboards  
+
+1. **Big Picture** - (how & why) focuses on the user experience. we want to include emotion in a big picture storyboard. maybe best for early on in the design process when designers are trying to get stakeholders to support their ideas. focuses on what the user needs, their context, and why the product will be useful to the user. 
+2. **Close-up** - (what) focuses on the product. what happens on each screen of a product? concentrates on the product and how it works. best used in the middle to the end of design process.
+
+Creating a Big Picture Storyboard  
+
+1. Start with a problem statement
+2. Create a goal statement
+3. Set up the storyboard
+4. Add the storyboard scenario - a sentence that sets the narrative for the storyboard
+5. Draw one idea per panel - set the scene, then use panels the think about actions that push the stpory forward and how the user feels in each panel
+6. Expose pain points for the user along their journey 
+7. Include the user goal or conclusion in the final panel
+
+For Close-up storyboard: Big picture storyboards and close-up storyboards differ in step five, when you draw each panel. Remember, big picture storyboards focus on the user, while close-up storyboards focus on the product. For this close-up storyboard, think about which product details you want to draw attention to on each panel and why. You want to demonstrate the user flow within the product and how each action within the product will lead to the next screen. 
+
+My Attempt:
+![](myStoryBoard.png)
+
+My Sharpen Prompt big picture
+![](storyBoard_sharpen1.png)
+My Sharpen Prompt close-up
+![](storyBoard_sharpen2.png)
 
 ### Get Started with Wireframes
 
+Introduction to Wireframes   
+A design solves a real problem that users are experiencing...and a strong design always puts the user front and center
+**Fidelity** - How closely a design matches the look-and-feel of the final product  
+**Low Fidelity** - (lo-fi) Lower amount of complexity. Less refined or polished than the intended product. useful for getting ideas out quickly while leaving room open for exploration.  
+**High Fidelity** - (hi-fi) Closely matches the look and feel of the final product. More refined and polished than a lo-fi prototype.  
+**Wireframe** - a basic outline of a digital experience, like an app or website. wireframes establish the basic structure of a page.  
+
+Purposes of Wireframes  
+
+* establish the basic structure of a page
+* highlight the intended function of the product
+* save time and resources
+
+Start Drawing Wireframes  
+A good wireframe is all about organizing and communicating information clearly to your colleagues who will implement your design
+
+Industry Standards - common ways to indicate page elements  
+
+- Text - horizontal lines
+- images - boxes with and X inside
+- calls to action - rectangles or circles
+
+Benefits of Wireframes  
+
+* Inform the elements to include in your design
+* Catch problems early
+* get stakeholders the focus on structure (instead of details like font/text)
+* Save time and effort
+* Iterate quickly
 
 <br><br><br>
