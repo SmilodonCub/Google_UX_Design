@@ -1,0 +1,90 @@
+---
+title: "Competitive Audit & Report"
+author: Bonnie Cooper
+date: "`r Sys.Date()`"
+output:
+  rmdformats::downcute
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br><br>
+## Part 1: Competitive Audit
+
+![](compAudit.png)
+<br>
+
+### Competitive Audit Findings
+
+* **Key Finding** - None of the bike shops in Athens (direct competitors) researched for this competitive audit utilize an app to handle customer payments, so the current app in development would be novel for the Athens market. On the other hand, all bike shops (direct competitors) had a website presence.
+* **theme** - website shops go beyond bikes & bike frames. Accessories, components, clothing etc. are also offered
+* **trend** - some bikeshops cater specifically to young urban ridership and this is reflected in the style of the website
+* **trend** - some bikeshops offer customized builds for unique high-end bikes
+
+
+
+## Part 2: Competitive Audit Report
+
+### Goal of Competitive Audit:
+Compare the digital shopping experiences for bike shops in Athens
+
+
+### Who are your Key Competitors
+Cycle Lovers, Athens Custom Bicycles & Vicious Cycles Athens
+
+
+### What are the type and quality of competitors' product?
+
+* Our key competitors carry mid to high range quality bikes, components and accessories that are geared towards a young urban ridership.
+* Other competitors such as Serkos Bikes Shop and Tsirikos Bikes target a higher end clientele  and carry bikes for specific sports (e.g. racing, triathlon etc.) and other specialties such as bikes for kids, teenagers &/or families.
+* The indirect competition such as Bike Sharing Greece and Vintage Bike Tours offer short term bike rentals.
+
+
+### How do competitors position themselves in the market?
+
+* Our direct competitors market towards young, urbanites and commuters by offering bikes that are built or customized for urban riding. Ex: fixies, single speeds or versatile steel frame rides.
+* Other competitors market to a broader portion of the market with bikes for children/teenagers and even dabbling into markets for bike alternatives (ex: scooters, skates etc). The other competition also focuses on sport specific bike builds: performance road/racing bikes, mountain bikes, triathlon etc.
+* Indirect competition is angling for a completely different portion of the market by targeting short term cycling needs. Bike Sharing Greece is marketed for general purpose bike rentals whereas Vintage Bike Tours caters to vacationing tourists looking for a city tour or short term rental.
+
+
+### What do competitors do well? What could they do better?
+
+**What the competition could be doing better:**  
+No other bike shop (direct competitor) has a mobile payment app; our app would be an innovation for the Athens market.  
+
+**What the direct competition is doing well:**  
+Our key competitors are doing very well at offering unique product/service to the same market demographic: Cycles Lovers has dealership of Orient, a local Greek frame builder; Vicious Cycles offers custom builds and spray-bike paint customization; and Athens Custom Bicycles offers a vintage/retro line of components and accessories.  
+
+**What the indirect competition could improve:**  
+Vintage Bike Tours seems to only have an Instagram presence and relies on a ‘if you know, you know’ mentality for attracting business. Perhaps getting their website working could be a step towards expanding their business model.  
+
+**What the indirect competition is doing well:**  
+Bike Sharing Greece has a mobile app for locating and renting nearby bikes in the bike share system. The app is visually appealing with a seafoam green theme throughout. It is simple and intuitive to use by following conventions of similar bike sharing systems in other cities. It is accessible in English or Greek. Font is clear & large and text is simple & straight forward. Conventional icons are used.
+
+
+
+## Part 3: Crazy Eights
+
+None of the Athens bike shops (direct competition) researched for this audit offer a mobile payment app for users to handle payments.
+**Opportunity**: What mobile payment features would benefit customers for a bike shop in Athens?
+
+![Post-it note with opportunity generated from the competitive audit report](c8_1.jpg)
+!['Crazy Eight Ideation Exercise'](c8_2.jpg)
+
+Proposed Solutions:  
+
+* Top Row from Left to Right
+  - App should be able to toggle between more languages than just Greek and English. this sketch illustrates a drop-down menu that could have a list of languages that can toggle to sort either alphabetical or frequency of use
+  - Besides just making payments, the app should be able to reserve appointments for select services (e.g. assessing a bike that needs maintenance)
+  - App should be able to push an alarm that the bike/service has been completed and further action is needed from the user
+  - App should notify user when payments are due. Ex: is payment plans are an option, should push a reminder before each installment is processed.
+* Bottom Row from Left to Right
+  - App should be able to hold a wish list of products in a customer's account for future purchase or to cross reference with mechanics for compatibility.
+  - App could push notifications to a user when new products arrive. Perhaps even give them a preview before notifications hit social media.
+  - App should push a notification when it is time for a bikes annual tune-up. Option: other friendly maintenance reminders (ex: it's been a month...have you lubed you chain?)
+  - Work Order Progress updates: a visual to update a user who has ordered a new bike or dropped a bike off for repair/maintenance (received $\rightarrow$ waiting for product delivery from vendor $\rightarrow$ order being assembled $\rightarrow$ ready for pickup )
+
+
+<br><br><br>

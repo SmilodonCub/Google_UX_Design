@@ -1,0 +1,17 @@
+---
+title: "User Flow"
+subtitle: 'Sharpen prompt: Design a Mobile Payment App for a Bicycle Shop in Athens'
+output:
+  pdf_document: default
+  html_document: default
+---
+
+## Goal Statement
+
+![](goalStatement_sharpen.png){width=75%}
+
+## User Task:
+Use the AthensBikeShop App to check notifications to see if maintenance work is done on a bike
+
+## Diagram the User Flow
+![](userFlow_sharpen.png){width=75%}
