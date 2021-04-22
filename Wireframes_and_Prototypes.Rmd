@@ -154,4 +154,45 @@ Benefits of Wireframes
 * Save time and effort
 * Iterate quickly
 
+## Build Wireframes and Low-Fidelity Prototypes
+making wireframes for a new product or feature.
+
+### The basics of information architecture
+**Information Architecture** - organizes content to help users understand where they are in a product and where the information they want is.  
+
+Importance of Information Architecture  
+
+* Organizes and defines the overall structure for the app or site  
+* Provides a high-level view of the product  
+* Help stakeholders review your designs  
+* Helps engineers understand how to organize the data
+* Allows your ideas to grow and iterate with the design
+
+### Create Paper Wireframes
+basic outlines (lo-fi) of a digital experience
+
+Benefits of Paper Wireframes  
+
+* Fast
+* Inexpensive
+* Explore lots of ideas
+
+### Create Digital Wireframes
+Moving from paper to digital wireframes  
+
+* Is my paper wireframe complete?
+* Have I received feedback on my paper wireframe?
+* Am I ready to consider basic visual cues? 
+
+Transitioning to digital:  
+
+* Use actual content for important pieces of text, instead of all placeholder text. e.g. section headers and icons.  
+* **Lorem ipsum** - meaningless placeholder text written in Latin that you can use to show where content will go and how a page will be laid out. To be used in wireframes where bigger chunks of text should be.
+* Hold back on adding expressive content ( colors, images, etc )
+
+Benefits of Digital Wireframes  
+
+* Pay more attention to details
+* Easier to share
+
 <br><br><br>
