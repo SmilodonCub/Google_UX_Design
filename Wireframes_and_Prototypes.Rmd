@@ -195,4 +195,54 @@ Benefits of Digital Wireframes
 * Pay more attention to details
 * Easier to share
 
+![](figma_wireframes.png)
+
+### Use Gestalt Principles when creating wireframes
+Humans naturally notice the whole of something before the parts
+
+**Gestalt Principles** - how humans group similar elements, recognize patterns and simplify complex images when we perceive objects.    
+
+* Similarity - elements that look similar are perceived to have the same function. When designing a wireframe, consider making elements that have a similar function look similar to give your app a more intuitive user experience.
+* Proximity - elements that are close together appear to be more related than things that are spaced further apart. Group like things close together when designing you app to make the grouping more intuitive
+* Common Region - elements located within the same area are perceived to be together. use borders in wireframes to group elements together.
+
+Sharpen Prompt: User Flow - Check the status os a recent order
+![](figma_sharpenPrompt_UserFlow.png)
+
+## Create Low-Fidelity Prototypes on Paper
+**Prototype** - an early model of a product that demonstrates functionality. an interactive representation of your design solution
+
+How does a digital wireframe become a low-fidelity prototype?  
+
+* Define lo-fi prototypes: a simple, interactive model that provides a basic idea of what the product would look like
+* Make designs testable so that you can collect and analyze feedback early on. 
+* Demonstrating what a design idea can do in a prototype gives designers an opportunity to receive feedback and make improvements accordingly
+* As designers transition from a wireframe to a low-fidelity prototype, the most significant difference is the level of interactivity, or the ability to 'click' from one screen to another.  
+
+### Create a Paper Prototype
+Benefits of paper prototypes
+
+* Inexpensive
+* Rapid Iteration
+* Low Commitment
+* Encourage honest feedback
+* Collaborative activity
+
+Drawbacks of paper prototypes:  
+
+* Hard to interpret (some stretches of the imagination required)
+* Need to be tested in person
+* Makes remote collaboration difficult 
+
+Building paper prototypes is most useful during brainstorming session or for early product testing  
+
+Creative ways to make paper prototypes:  
+
+* preprinted templates
+* index cards
+* sticky notes
+* stencils
+* demo device
+* anything you can dream up!
+
 <br><br><br>
