@@ -1,0 +1,97 @@
+---
+subtitle: "Google User Experience (UX) Design"
+author: "notes along my way - Bonnie Cooper"
+date: "`r Sys.Date()`"
+title: 'Conduct UX Research and Test Early Concepts'
+output:
+  rmdformats::downcute
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**equity-focused research** - speaking to users from underrepresented and sometimes marginalized groups to understand basically their experiences and their needs.  
+
+
+## Wk1 Planning UX Research Studies
+
+### Understand the UX Research Process
+**Research Study** - A step-by-step examination of a group of users and their needs, which adds realistic content to the design process  
+
+Steps in the UX Research process:  
+
+1. Plan
+  - outline the background for the project
+  - set goals for the research. write the questions you want answered.
+  - establish the steps you will take to conduct the study. who will participate?
+2. Research 
+  - Gather data. e.g. a usability study
+  - **usability study** - a reasearch methods that assesses how easy it is for users to complete core tasks in a design. the goal of a usability study is to identify pain points & fix them early on in the design process.
+3. Synthesize
+  - find actual meaning in the data
+  - figure out why the data is what it is
+  - look for patterns in quantitative data and explore trends in qualitative data
+4. Share
+  - Share the results with stakeholders
+  - **Project stakeholders** - people who are involved in the project or who will be impacted by its results
+  - create a presentation that includes the methodology, data that was collected, conclusion from the analysis and recommendations for further action.
+  
+Importance of UX research: A UX research study helps us gain an understanding of user's problems in order to solve them. It also helps bridge the gap between what the business thinks a user needs and what the user actually needs.  
+
+### Language and Communication in UX Research  
+
+![](bestPractices.png)
+
+
+* **Language and Communication Matter** - use language that is appropriate for the context (ex formal vs casual) can help you get a deeper understanding of participants' unique perspectives and values.
+* **Consider Word Choices** - understand your own ideas on language use as well as the ideas other communities have. If you're not sure about what a research participant meant by something, ask them! Seek clarifications on language differences and ensure that translations of participants' insights are accurate. Avoid **ableist** language, or words that assume a person does not have a disability. Being aware of the words you use is an important step in being inclusive.  
+* **Keep the Context in Mind** - consider the context that the research is happening in. ex: the physical space.
+
+### Get to know the 7 elements of a research plan 
+
+![](UXres_plan_elements.png)
+
+1. Project Background - what lead you to conduct this research
+2. Research Goals - what design problems are you trying to solve? how will the results of the research impact our design decisions?
+3. Research Questions - what are the questions your research is trying to answer?
+4. Key Performance Indicators (KPI == critical measures of progress towards the research goal)
+5. Methodology - how will you collect data? how will you analyze the data?
+6. Participants - who will you survey and what characteristics will they have? (should be based on research goals (sample bias: try not to be biased in subject choice))  
+  - participants should be representative of all users, not just a select group
+  - selected participants should reflect research goals
+7. Script - discussion guide. be specific and speak to the KPIs
+
+### Start Building a Research Plan: project background, research goals and research questions  
+
+**Project Background** - summarizes the situation leading to the needs for this research
+  - Why the project Background is important:
+    - Gets the team on the same page at the beginning of the study
+    - shows you understand why you're doing this research
+    - promotes confidence in the overall quality of your analysis and insights
+  - How to write the project background
+    - Identify the signals that indicated research was necessary
+    - describe any previous research
+    - list insights the research will generate
+    - **insights** - an observation about people that helps you understand the user or their needs from a new perspective
+**Research Goals** - state the specific ideas that you would like to learn from the research or what you would like the outcomes of the research to be.  
+  - **Foundational Research Goal** - Understand why or if you should build the product
+  - **Design Research Goal** - Understand how to build the product
+  - **Post-launch Research Goal** - Understand if the product worked as expected
+**Research Questions**
+
+
+
+
+## Wk2 Conducting Research with Usability Studies
+
+
+
+## Wk3 Analyzing and Synthesizing Research Results
+
+
+
+## Wk4 Sharing Research Insights for Better Designs
+
+
+<br><br><br>

@@ -245,4 +245,62 @@ Creative ways to make paper prototypes:
 * demo device
 * anything you can dream up!
 
+### Introduction to Building lo-fi prototypes in Figma
+Many of the tools we use can be applied to the development of both lo-fi and hi-fi designs  
+Many of the skills we'll learn to build digital prototypes are transferable to other UX design applications like Adobe XD and Sketch.  
+
+Wireframes - draw each screen a user might interact with  
+Prototypes - understanding how users interact with the design (what happens when they press a button or tap a menu)
+
+
+### Understand Ethical and Inclusive Design  
+
+#### Recognize Implicit Bias in Design
+We need to be aware of how our own points of view can alter our designs, influence users and affect society  
+**Implicit Bias** - the collection of attitudes and stereotypes we associate to people without our conscious knowledge  
+Biases prevent us from understanding the complexity of a user's habits and needs.  
+Without understanding our user, we can't do our best design work.  
+
+*"It's a lot easier to treat someone like an edge case when they're not in the room"*  
+
+#### Identify deceptive patterns in UX design
+**Deceptive Patterns** - UX methods that trick users into doing or buying something they wouldn't otherwise have done or bought  
+Deceptive patterns are ethically wrong and not a good business practice.  
+Deceptive patterns are harder to ignore than traditional forms of advertising, because they're designed to be difficult to identity.  
+
+* Roach motel - set up a situation that makes it very difficult for the user to exit (e.g. without paying) Turbotax comes to mind
+* Forced Continuity - charging a user for a membership without a warning or a reminder
+* Sneak into Basket - extra products in cart. Turbotax!!!!
+* Hidden Costs - extra charges in cart. Turbotax!!!
+* Confirm shaming - guilting a consumer for leaving
+* Urgency - arbitrary count downs
+* Scarcity - arbitrary limited number of items
+* Bait and Switch - user takes an action with an expected result. However, something unplanned happens
+* Ads hidden within a page that were made to look like regular content
+* Misdirection - confusing a user so that they are unsure of what steps to take
+* Price comparison prevention - making it difficult to compare prices with the competition
+
+#### Understanding the Attention Economy
+**Attention Economy** - The battle over users' attention. there are only 24 hours in a day, so user have to be selective about how they spend that time.  
+
+Best practices to avoid some bad design decision:  
+
+* **Avoid deceptive patterns** - be honest with users
+* **Think about goals and metrics** - pay attention to how business goals might contradict or align with users' goals
+* **Share good design practices with the people you wrok with** - use your power to influence design decisions for good.
+
+#### Understand your impact as a UX Designer
+**Ethical Design** - being conscious of how design work affects the world  
+**Dominant Culture** - society often enables those with the most privilege and power  
+**Marginalized Population** - people experiencing discrimination or exclusion from mainstream society because of specific characteristics or life experiences that are wrongfully deemed as inferior  
+**Underrepresented** - groups of people whose values and experiences aren't represented often enough in a society that is shaped by a dominant cultures point of view.  
+**Edge Cases** - Situations that a user experiences with a design/product that the designers didn't prepare for.  
+**Inclusive Design** - making design choices that take into account personal identifiers like ability, race, economic status, language, age and gender.  
+
+Ideas to put ethical design into action:  
+* Create inclusive personas - avoid serving users who seem 'typical' or universal to you
+* Broaden your definition of 'stakeholder' - any person or place that a project can effect
+* Increase collaboration - the more insight you gain, the better your design
+
+**Multiversal** - the many ways that a design works for different people. 
 <br><br><br>
