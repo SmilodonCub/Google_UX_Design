@@ -78,7 +78,35 @@ Importance of UX research: A UX research study helps us gain an understanding of
   - **Foundational Research Goal** - Understand why or if you should build the product
   - **Design Research Goal** - Understand how to build the product
   - **Post-launch Research Goal** - Understand if the product worked as expected
-**Research Questions**
+**Research Questions** - questions your research will address. provides focus and structure to your research.
+  - Research Questions should be:
+    - Actionable - there should be a clear way to answer the questions
+    - Specific - not too board
+    - Avoid leading questions (should be framed in a way that does not assume a certain answer)
+**Key Performance Indicators** - Critical Measures of Progress toward an end goal
+  - Time on task - how long it takes for a user to complete a task. The less time it takes a user to complete a task, the more effective the UX design is.
+  - Use of navigation vs search - The number of people who use a website or app's navigation compared to the number of people who use the search functionality
+  - User error rates - indicate the parts of a design that cause users to make errors. help point to areas where you need to make improvements to the design of the UX
+  - Drop-off rates - How many users abandon the experience
+  - Conversion rates - Measures the percentage of users who complete a desired action
+  - System usability scale (SUS) - a questionnaire to measure the usability of your designs
+  - Net Promoter Score - a 0-10 measure of how loyal users will be to your product or service. The likelihood that a user will recommend your product to a friend or colleague
+    - **Promoters** (9-10) - will recommend to others
+    - **Passives** (7-8) - satisfied with the product but probably won't pass on recommendation
+    - **Detractors** (0-6) - could possibly warn people away from your product
+    - **NPS** == Promoters% - Detractors%
+**Methodology** - the steps you take to conduct your research. 
+  - Methodology informs your stakeholders of what will happen during the study, how long the study is and where it will take place
+  - detailing methodology gives stakeholders more confidence in your work and conclusions
+  - provides the details necessary for other to reproduce your work
+**Participants** - the people you will study
+  - Characteristics - should be based on research goals and be sure to avoid sample bias
+  - Screener Survey - a series of questions to determine of potential participants meet the desired characteristics
+  - Incentive - compensation & appreciation. something that motivates and encourages people to participate in a research study
+  - Seek diverse perspectives and abilities 
+    - Existing user base ... use a group of established connections
+    -  Online ... social media, online design communities or online research recruitment agencies
+    - Hallway testing ... ask people in person
 
 
 
