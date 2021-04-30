@@ -107,9 +107,58 @@ Importance of UX research: A UX research study helps us gain an understanding of
     - Existing user base ... use a group of established connections
     -  Online ... social media, online design communities or online research recruitment agencies
     - Hallway testing ... ask people in person
+**The Script** 
+  - so you don't forget any instructions
+  - so that the language is consistent for each participant
+  - Use the same set of questions for each interview
+  - Ask open-ended questions
+  - encourage elaboration
+  - ask the same questions from different angles
+  - Don't mention other users
+  - Don't ask leading questions
+  - Script Components:
+    - Getting Started
+      - Welcome the participants
+      - Thank the participants for their time
+      - get consent to record
+      - learn the participants basic information
+      - remind participants they are not being tested
+      - let participants ask questions
+    - Usability Tasks
+      - Based on Research goals
+      - Specific
+      - Make participants take action
+      - avoid providing clues on how to complete the task
+    - Conclusions
+      - Ask clarifying questions
+      - End the recording
+      - Thank the participant
 
+### Assistive Technology for Participants with Disabilities
+**a11y** - refers to accessibility. it's shorthand for representing the 11 letters between the a and y in accessibility and resembles the word ally which reflects the idea that UX designers need to be allies to people with all types of abilities.  
+**Assistive Technology** - a product, equipment or a system that enhances learning working and living for people with dissabilities
 
+![](aTech.png)
 
+### Make Privacy a part of UX practices
+
+1. It's the right thing to do!
+2. Privacy laws and Ethics
+3. The risk of Hackers
+4. Protecting your company's brand
+
+**Personally Identifiable Information** - specific details that could be used to identify a user (names, addresses, email addresses & phone numbers)  
+**Sensitive Personally Identifiable Information** - Data that is lost, compromised or stolen, could cause your users financial harm embarrassment or discrimination. ( SSN, drivers license #, passport #, financial account numbers, DOB, race, disability status, gender, sexuality, criminal history, medical info)  
+
+Privacy & Security Practices  
+
+* Be transparent about data collection
+* Only collect user data that's absolutely essential
+* Get active consent
+* Detail how you'll use participants' info and protect privacy
+* Allow users to withdraw at any time
+* Inform users of who will have access to the data
+* Explain how you plan to store and secure data
 
 ## Wk2 Conducting Research with Usability Studies
 
