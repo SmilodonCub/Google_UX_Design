@@ -64,7 +64,8 @@ Importance of UX research: A UX research study helps us gain an understanding of
 
 ### Start Building a Research Plan: project background, research goals and research questions  
 
-**Project Background** - summarizes the situation leading to the needs for this research
+**Project Background** - summarizes the situation leading to the needs for this research  
+
   - Why the project Background is important:
     - Gets the team on the same page at the beginning of the study
     - shows you understand why you're doing this research
@@ -74,16 +75,22 @@ Importance of UX research: A UX research study helps us gain an understanding of
     - describe any previous research
     - list insights the research will generate
     - **insights** - an observation about people that helps you understand the user or their needs from a new perspective
+    
 **Research Goals** - state the specific ideas that you would like to learn from the research or what you would like the outcomes of the research to be.  
+
   - **Foundational Research Goal** - Understand why or if you should build the product
   - **Design Research Goal** - Understand how to build the product
   - **Post-launch Research Goal** - Understand if the product worked as expected
-**Research Questions** - questions your research will address. provides focus and structure to your research.
+  
+**Research Questions** - questions your research will address. provides focus and structure to your research.  
+
   - Research Questions should be:
     - Actionable - there should be a clear way to answer the questions
     - Specific - not too board
     - Avoid leading questions (should be framed in a way that does not assume a certain answer)
-**Key Performance Indicators** - Critical Measures of Progress toward an end goal
+    
+**Key Performance Indicators** - Critical Measures of Progress toward an end goal  
+
   - Time on task - how long it takes for a user to complete a task. The less time it takes a user to complete a task, the more effective the UX design is.
   - Use of navigation vs search - The number of people who use a website or app's navigation compared to the number of people who use the search functionality
   - User error rates - indicate the parts of a design that cause users to make errors. help point to areas where you need to make improvements to the design of the UX
@@ -95,11 +102,15 @@ Importance of UX research: A UX research study helps us gain an understanding of
     - **Passives** (7-8) - satisfied with the product but probably won't pass on recommendation
     - **Detractors** (0-6) - could possibly warn people away from your product
     - **NPS** == Promoters% - Detractors%
-**Methodology** - the steps you take to conduct your research. 
+    
+**Methodology** - the steps you take to conduct your research.  
+
   - Methodology informs your stakeholders of what will happen during the study, how long the study is and where it will take place
   - detailing methodology gives stakeholders more confidence in your work and conclusions
   - provides the details necessary for other to reproduce your work
-**Participants** - the people you will study
+  
+**Participants** - the people you will study  
+
   - Characteristics - should be based on research goals and be sure to avoid sample bias
   - Screener Survey - a series of questions to determine of potential participants meet the desired characteristics
   - Incentive - compensation & appreciation. something that motivates and encourages people to participate in a research study
@@ -107,7 +118,9 @@ Importance of UX research: A UX research study helps us gain an understanding of
     - Existing user base ... use a group of established connections
     -  Online ... social media, online design communities or online research recruitment agencies
     - Hallway testing ... ask people in person
-**The Script** 
+    
+**The Script**  
+
   - so you don't forget any instructions
   - so that the language is consistent for each participant
   - Use the same set of questions for each interview
@@ -160,13 +173,174 @@ Privacy & Security Practices
 * Inform users of who will have access to the data
 * Explain how you plan to store and secure data
 
+### Understand Privacy Issues
+**Vulnerable Population** - groups of people who have limited ability to provide their consent or have special privacy concerns.  
+
+Safety of Research Data
+
+1. Data Recording - document your study and results ina way that's consistent with UX research standards
+2. Data Storage - Make sure your data is held in a way that's safe from hacking and physical damage
+3. Data Retention - How long you and your company hold on to research data 
+
+Tools to Maintain Privacy  
+
+* De-identification - removing any identifying information from a users' data that you collect during a study  
+* Non-Disclosure Agreement - a contract that gives one party legal protection against another party stealing their ideas
+
+
+
 ## Wk2 Conducting Research with Usability Studies
 
+### Conduct a Usability Study
+**Usability Study** - A research method that assesses how easy it is for participants to complete core tasks in a design. Follow participants as they interact wih the product. User's feedback helps the design team make important improvements to the UX.  
+**Concept Testing** - a usability study when you only have an early idea (lo-fi prototype) that is only somewhat interactive
 
+### Conduct Moderated and Unmoderated Usability Studies
+
+![](usabilitystudies.png)
+
+**Moderated Usability Study** - a moderator guides participants through the study in real time. The moderator's goal is to help participants and collect feedback along the way.  
+
+  - Benefits of Moderate Usability studies
+    - **Provide live guidance** participant is guided through task, so they take the exact actions the moderator intends
+    - **Gain clarification** the moderator can ask specific questions to follow up in real time with the user, thus acquiring more tailored information that can inform the design
+    - **Build Rapport** rapport building between the moderator and participant (helps the participant open up and give more feedback)
+    - **Observe firsthand** insights can be more impactful if the usability is observed in person instead of a recording
+    - **Explain the user's journey** - more time and opportunity to test ambiguous or complex problems that could have been misinterpreted had there not been guidance present
+    - **Control the conversation** - keep the flow of the conversation from being distracted or interrupted
+    - **Make language adjustments** - a moderator can rephrase a prompt or question a way that is better understood by a participant
+  - Limitations of moderated Usability Studies
+    - **Influence or Bias** - Moderators can influence or bias the participants
+    - **Difficult scheduling** - Less flexible (goes by the moderators schedule), so might exclude some users
+    - **Self-identification** - participant might not identify with the moderator making them less likely to give feedback
+    - **Participant pool** - most moderated user studies happen during working hours, so this selects for who can participate
+    - **Difficult scheduling** - harder to reschedule cancelations and no-shows
+    - **Reliable internet is required** - internet connectivity for remote moderations can complicate sessions
+    - **High cost** - gotta pay that moderator
+    
+**Unmoderated Usability Study** - Participants test out the prototypes without human guidance.  
+
+  - Benefits of Unmoderated Usability Studies
+    - **Natural product interactions** - easier to see how the participant uses the product in the real world
+    - **Easier scheduling** -allow participants to complete tasks on their own time in their own space
+    - **More privacy** - participants may feel more comfortable giving feedback without others around
+    - **More participants** - easier to include more participants because they don't need to be working in to the moderator's availability
+    - **Inexpensive** - don't need to pay for a moderator or a facility
+    - **Simpler user journeys** - unmoderated usability studies work well to test straightforward user journeys and simple features of a product.
+  - Limitations of Unmoderated Usability Studies
+    - **No real-time support** - no human guidance if issues arise
+    - **No live follow-ups** - no opportunity to ask follow up questions in real time
+    - **Potential distractions** - no control over the environment to ensure that participants are focused
+    - **Possible privacy breaches** - less control over your intellectual property
+    - **Inaccessibility** - the testing platform might not be accessible to all of your target user group
+    - **More data to analyze** - there might be irrelevant data that needs to be filtered
+    - **Simple user journeys only** - unmoderated studies are not great for complex user journeys, because if a user gets stuck there is no moderator there to guide them through the process.
+    
+    
+### Usability Study Best Practices
+
+![](bestpractices.png)
+
+How to begin a moderated usability study  
+
+* Build a rapport with participants
+* Thank participants for coming
+* Remind participants to be open and honest
+* Have participants fill out paperwork (e.g. NDA)
+* Explain the focus of the study and what participants will give feedback on
+* Establish the ground rules for the study (**think out loud method**: explain their inner dialogue as they proceed)
+* Remind participants that they are not being tested
+* Keep your emotions neutral 
+
+Techniques for Moderating a Usability Study
+
+* Ask open-ended questions
+* Ask some follow up questions for clarity & deeper insights. helps avoid making assumptions
+* Summarize their answer for confirmation (if you are still unclear)
+
+Best Practices  
+
+* **Get Comfortable** 
+  - Getting to know you small talk 
+  - Thank the participants for coming
+  - Be open and honest
+  - Make sure the space is comfortable & clear of distractions
+* **Put People First**
+  - use preferred pronouns
+  - address the participant directly
+  - use people-first language
+  - address experiences of marginalized communities
+* **Don't skip the paperwork**
+  - nondisclosure agreement
+  - consent
+  - agree for the session to be recorded
+* **Communicate clearly**
+  - explain the focus of the story
+  - **think-out-loud** - participants are encouraged to turn their internal thoughts into shared ideas through spoken, signed or typed words
+  - remind participants that they are not being tested. if a user can't complete a task, that's not their fault...it's a reflection of design that needs improvement
+  - summarize ideas for confirmation. at the end of a task/prompt after you have gathered insights, repeat them back to the user in the way you thing they should be interpreted to see if the user conforms your perception of their intent.
+* **Ask the Right Questions**
+  - Use the same set of questions with each participant
+  - Ask open-ended questions
+  - encourage elaboration
+  - Ask the same questions from different angles
+  - Don't mention other participants
+  - Don't ask leading questions
+
+
+*"User Experience Research is critical at every stage of the product development life cycle"*  
+
+*"I'm always on the side of the people who are using our products and our services. I want to ensure that the experience that we put out there works for them."*
+
+### Identifying biases when interviewing usability study participants
+
+* Implicit bias
+* Serial Position bias
+* Friendliness bias
+* Social Favorability bias
+
+How to reduce bias when conducting usability studies  
+
+* Identify and admit your own biases
+* Find participants from a representative sample
+* Define the research criteria beforehand
+* Phrase interview questions thoughtfully
+* Let participants express themselves fully and in their own words
+* Be mindful of your body language
+
+**Hawthorn Effect** - people tend to act differently when they know they are being watched
+
+### Note-Taking Methods During Usability Studies
+
+* Capture any thoughts you have during a usability study
+* Summarize a participant's experience during the study
+* Highlight compelling quotes to include in your research report
 
 ## Wk3 Analyzing and Synthesizing Research Results
+From Observations to Insights  
+**Synthesize** - Combine ideas to draw conclusions. Grouping data/insights into themes  
+**Iterate** - Revise the original design to create a new and improved version
 
+### Developing Insights
+Turn your observations from the research into actionable insights  
 
+**Insight (design)** - An observation about people that helps you understand the user or their needs from a new perspective  
+
+* **STEP 1** - Gather the data in one place
+* **STEP 2** - Organize the data (Affinity diagrams)
+* **STEP 3** - Find themes in the data
+* **STEP 4** - Come up with insights
+
+### Gather, Organize, and Reflect on data
+**Affinity** - a feeling of like-mindedness or compatibility towards something or someone  
+**Affinity Diagram** - a method of synthesizing that organizes data into groups with common themes or relationships  
+
+Creating Affinity Diagrams  
+
+* Create Sticky Notes - transfer observations onto individual sticky notes
+* Put the sticky notes into groups - cluster the observations into groups that share an affinity
+* Continue until there are no sticky notes remaining - ideally, you should end up with 3-10 groups
+* Do a second review - there is no 'right answer' so just take your time to assess if the groupings make the most sense to you
 
 ## Wk4 Sharing Research Insights for Better Designs
 
